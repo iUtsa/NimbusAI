@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nimbus AI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <div class="nimbus-logo"></div>
+                    <h1 style="font-family: alata;">Nimbus</h1>
+                </div>
+                <button class="new-chat-btn" id="new-chat-btn">
+                    <i class="fas fa-plus"></i> New Chat
+                </button>
+            </div>
+
+            <div class="sidebar-content">
+                <div class="chat-history">
+                    <h2>Recent Chats</h2>
+                    <ul class="chat-list" id="conversation-list">
+                        <!-- Conversations will be loaded here -->
+                    </ul>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <div class="model-selector">
+                    <label for="model">Model:</label>
+                    <select id="model">
+                        <option value="Nimbus-2025">Nimbus: Dark Matter</option>
+                    </select>
+                </div>
+                <button class="settings-btn" id="toggle-theme">
+                    <i class="fas fa-moon"></i>
+                    <span>Dark Mode</span>
+                </button>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="chat-container">
+                <div class="chat-header">
+                    <button id="menu-toggle" class="menu-btn">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                    <h2>Nimbus : Dark Matter</h2>
+                    <div class="actions">
+                        <button class="btn" id="clear-chat">
+                            <i class="fas fa-trash"></i>
+                        </button>
+                        <button class="btn" id="share-chat">
+                            <i class="fas fa-share-alt"></i>
+                        </button>
+                    </div>
+                </div>
+                
+                
+
+                <div class="messages-container" id="messages">
+                    <div class="welcome-message">
+                        <h2>Nimbus welcomes you!</h2>
+                        <p>Ask me anything buddy! We will go beyond the horizon together!</p>
+                        <div class="suggestion-chips">
+                            <button class="suggestion-chip">Write a poem about nature</button>
+                            <button class="suggestion-chip">Help me learn Python</button>
+                            <button class="suggestion-chip">Explain quantum computing</button>
+                            <button class="suggestion-chip">Plan a healthy meal</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="input-container">
+                    <form id="chat-form">
+                        <div class="input-wrapper">
+                            <textarea id="user-input" placeholder="Message AI Assistant..." rows="1"></textarea>
+                            <button type="submit" class="send-btn">
+                                <i class="fas fa-paper-plane"></i>
+                            </button>
+                        </div>
+                        <div class="input-footer">
+                            <span class="disclaimer">AI responses may not always be accurate. Verify important information.<br> Copyright: all right reserved to Arnab Das Utsa the developer of this model. </span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
