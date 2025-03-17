@@ -1,0 +1,930 @@
+{"messages": [{"role": "user", "content": "How many days do we have in a week?"}, {"role": "assistant", "content": "Seven"}]}
+{"messages": [{"role": "user", "content": "How many days are there in a normal year?"}, {"role": "assistant", "content": "365 (not a leap year)"}]}
+{"messages": [{"role": "user", "content": "How many colors are there in a rainbow?"}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "Which animal is known as the \u2018Ship of the Desert?\u2019"}, {"role": "assistant", "content": "Camel"}]}
+{"messages": [{"role": "user", "content": "How many letters are there in the English alphabet?"}, {"role": "assistant", "content": "26"}]}
+{"messages": [{"role": "user", "content": "How many consonants are there in the English alphabet?"}, {"role": "assistant", "content": "21"}]}
+{"messages": [{"role": "user", "content": "How many sides are there in a triangle?"}, {"role": "assistant", "content": "Three"}]}
+{"messages": [{"role": "user", "content": "Which month of the year has the least number of days?"}, {"role": "assistant", "content": "February"}]}
+{"messages": [{"role": "user", "content": "Which are the vowels in the English alphabet series?"}, {"role": "assistant", "content": "A, E,\u00a0I,\u00a0O, U"}]}
+{"messages": [{"role": "user", "content": "Which animal is called King of Jungle?"}, {"role": "assistant", "content": "Lion"}]}
+{"messages": [{"role": "user", "content": "How many primary colors are there?"}, {"role": "assistant", "content": "Three (red, yellow, blue)"}]}
+{"messages": [{"role": "user", "content": "How many days are there in the month of February in a leap year?"}, {"role": "assistant", "content": "29 days"}]}
+{"messages": [{"role": "user", "content": "What do you call a house made of ice?"}, {"role": "assistant", "content": "Igloo"}]}
+{"messages": [{"role": "user", "content": "Which is the largest animal in the world?"}, {"role": "assistant", "content": "Blue whale"}]}
+{"messages": [{"role": "user", "content": "Which is the tallest animal on the earth?"}, {"role": "assistant", "content": "Giraffe"}]}
+{"messages": [{"role": "user", "content": "Which festival is known as the festival of colors?"}, {"role": "assistant", "content": "Holi"}]}
+{"messages": [{"role": "user", "content": "Which festival is called the festival of light?"}, {"role": "assistant", "content": "Diwali"}]}
+{"messages": [{"role": "user", "content": "What is the top color in a rainbow?"}, {"role": "assistant", "content": "Red"}]}
+{"messages": [{"role": "user", "content": "What type of bird lays the largest eggs?"}, {"role": "assistant", "content": "Ostrich"}]}
+{"messages": [{"role": "user", "content": "Which festival is known as the \u2018Festival of flowers\u2019?"}, {"role": "assistant", "content": "Onam"}]}
+{"messages": [{"role": "user", "content": "In which direction does the sunrise?"}, {"role": "assistant", "content": "East"}]}
+{"messages": [{"role": "user", "content": "Which is the world\u2019s largest flower?"}, {"role": "assistant", "content": "Rafflesia"}]}
+{"messages": [{"role": "user", "content": "How many zeros are there in one hundred thousand?"}, {"role": "assistant", "content": "Five"}]}
+{"messages": [{"role": "user", "content": "How many hours are there in two days?"}, {"role": "assistant", "content": "48 hours (24+24)"}]}
+{"messages": [{"role": "user", "content": "How many months of the year have 31 days?"}, {"role": "assistant", "content": "7 (January, March, May, July, August, October and December)"}]}
+{"messages": [{"role": "user", "content": "How many weeks are there in one year?"}, {"role": "assistant", "content": "52"}]}
+{"messages": [{"role": "user", "content": "Which are the colors in a rainbow?"}, {"role": "assistant", "content": "Violet, Indigo, Blue, Green, Yellow, Orange, Red"}]}
+{"messages": [{"role": "user", "content": "How many bones does an adult human have?"}, {"role": "assistant", "content": "206"}]}
+{"messages": [{"role": "user", "content": "Who was the first man to walk on the moon?"}, {"role": "assistant", "content": "Neil Armstrong"}]}
+{"messages": [{"role": "user", "content": "How many millimeters are there in 1cm?"}, {"role": "assistant", "content": "10"}]}
+{"messages": [{"role": "user", "content": "Which is the nearest star to planet earth?"}, {"role": "assistant", "content": "Sun"}]}
+{"messages": [{"role": "user", "content": "Which is the longest river on the earth?"}, {"role": "assistant", "content": "Nile"}]}
+{"messages": [{"role": "user", "content": "Which is the principal source of energy for earth?"}, {"role": "assistant", "content": "Sun"}]}
+{"messages": [{"role": "user", "content": "How many lungs does the human body have?"}, {"role": "assistant", "content": "Two"}]}
+{"messages": [{"role": "user", "content": "What is the standard taste of the water?"}, {"role": "assistant", "content": "Water is tasteless"}]}
+{"messages": [{"role": "user", "content": "Which is the tallest mountain in the world?"}, {"role": "assistant", "content": "Mount Everest"}]}
+{"messages": [{"role": "user", "content": "Which is the fastest animal on the land?"}, {"role": "assistant", "content": "Cheetah"}]}
+{"messages": [{"role": "user", "content": "Which continent is known as \u2018Dark\u2019 continent?"}, {"role": "assistant", "content": "Africa"}]}
+{"messages": [{"role": "user", "content": "Which planet is known as the Red Planet?"}, {"role": "assistant", "content": "Mars"}]}
+{"messages": [{"role": "user", "content": "Which is the most sensitive organ in our body?"}, {"role": "assistant", "content": "Skin"}]}
+{"messages": [{"role": "user", "content": "Which is the largest ocean in the world?"}, {"role": "assistant", "content": "Pacific Ocean"}]}
+{"messages": [{"role": "user", "content": "Which day is observed as World Environment Day?"}, {"role": "assistant", "content": "June 5"}]}
+{"messages": [{"role": "user", "content": "How many years are there in a century?"}, {"role": "assistant", "content": "One Hundred"}]}
+{"messages": [{"role": "user", "content": "Which is the largest country in the world?"}, {"role": "assistant", "content": "Russia (By area)"}]}
+{"messages": [{"role": "user", "content": "Who invented the Computer?"}, {"role": "assistant", "content": "Charles Babbage"}]}
+{"messages": [{"role": "user", "content": "How many players are there in a cricket team?"}, {"role": "assistant", "content": "11"}]}
+{"messages": [{"role": "user", "content": "Which day is observed as World Literacy Day?"}, {"role": "assistant", "content": "September 8"}]}
+{"messages": [{"role": "user", "content": "Who is the inventor of Radio?"}, {"role": "assistant", "content": "Marconi"}]}
+{"messages": [{"role": "user", "content": "Which place is known as the roof of the world?"}, {"role": "assistant", "content": "Tibet"}]}
+{"messages": [{"role": "user", "content": "How many teeth does a healthy adult have including the wisdom teeth?"}, {"role": "assistant", "content": "32"}]}
+{"messages": [{"role": "user", "content": "Which gas is most abundant in the earth\u2019s atmosphere?"}, {"role": "assistant", "content": "Nitrogen"}]}
+{"messages": [{"role": "user", "content": "How many people are there in the world?"}, {"role": "assistant", "content": "Over 7 billion"}]}
+{"messages": [{"role": "user", "content": "Which is the continent with the most number of countries?"}, {"role": "assistant", "content": "Africa"}]}
+{"messages": [{"role": "user", "content": "Which is the most common non-contagious disease in the world?"}, {"role": "assistant", "content": "Tooth Decay"}]}
+{"messages": [{"role": "user", "content": "How many strings does a violin have?"}, {"role": "assistant", "content": "Four"}]}
+{"messages": [{"role": "user", "content": "How many planets are there in our solar system?"}, {"role": "assistant", "content": "8"}]}
+{"messages": [{"role": "user", "content": "Which is the hottest continent on Earth?"}, {"role": "assistant", "content": "Africa"}]}
+{"messages": [{"role": "user", "content": "Which is the smallest continent in the world?"}, {"role": "assistant", "content": "Australia"}]}
+{"messages": [{"role": "user", "content": "How many years are there in a millennium?"}, {"role": "assistant", "content": "1000"}]}
+{"messages": [{"role": "user", "content": "Which country is home to the kangaroo?"}, {"role": "assistant", "content": "Australia"}]}
+{"messages": [{"role": "user", "content": "Who painted the Mona Lisa?"}, {"role": "assistant", "content": "Leonardo da Vinci"}]}
+{"messages": [{"role": "user", "content": "Who invented the telephone?"}, {"role": "assistant", "content": "Alexander Graham Bell"}]}
+{"messages": [{"role": "user", "content": "What does the Internet prefix WWW stand for?"}, {"role": "assistant", "content": "World Wide Web"}]}
+{"messages": [{"role": "user", "content": "How much of Earth\u2019s surface is covered by ocean?"}, {"role": "assistant", "content": "71%"}]}
+{"messages": [{"role": "user", "content": "Who discovered Penicillin in 1928?"}, {"role": "assistant", "content": "Alexander Fleming"}]}
+{"messages": [{"role": "user", "content": "How many stars are there in the American flag?"}, {"role": "assistant", "content": "50"}]}
+{"messages": [{"role": "user", "content": "What do you call a type of shape that has five sides?"}, {"role": "assistant", "content": "Pentagon"}]}
+{"messages": [{"role": "user", "content": "Which way is anti-clockwise, left or right?"}, {"role": "assistant", "content": "Left"}]}
+{"messages": [{"role": "user", "content": "How many equal sides does an isosceles triangle have?"}, {"role": "assistant", "content": "2"}]}
+{"messages": [{"role": "user", "content": "Which is the coldest location in the earth?"}, {"role": "assistant", "content": "East Antarctica"}]}
+{"messages": [{"role": "user", "content": "Who discovered electricity?"}, {"role": "assistant", "content": "Benjamin Franklin"}]}
+{"messages": [{"role": "user", "content": "Which is the most widely spoken language in the world?"}, {"role": "assistant", "content": "Mandarin (Chinese)"}]}
+{"messages": [{"role": "user", "content": "Which two parts of the body continue to grow for your entire life?"}, {"role": "assistant", "content": "Nose and Ears"}]}
+{"messages": [{"role": "user", "content": "The largest \u2018Democracy\u2019 in the world?"}, {"role": "assistant", "content": "India"}]}
+{"messages": [{"role": "user", "content": "Who is the inventor of Television?"}, {"role": "assistant", "content": "John Logie Baird"}]}
+{"messages": [{"role": "user", "content": "Which is the largest plateau in the world?"}, {"role": "assistant", "content": "Tibetan Plateau"}]}
+{"messages": [{"role": "user", "content": "Which is the instrument used to measure Blood pressure?"}, {"role": "assistant", "content": "Sphygmomanometer"}]}
+{"messages": [{"role": "user", "content": "What color symbolizes peace?"}, {"role": "assistant", "content": "White"}]}
+{"messages": [{"role": "user", "content": "Who is the founder of Microsoft?"}, {"role": "assistant", "content": "Bill Gates"}]}
+{"messages": [{"role": "user", "content": "During which year did World War I begin?"}, {"role": "assistant", "content": "1914"}]}
+{"messages": [{"role": "user", "content": "How many Cricket world cups does India have?"}, {"role": "assistant", "content": "2"}]}
+{"messages": [{"role": "user", "content": "Global warming is caused by the excess of which type of gas?"}, {"role": "assistant", "content": "Carbon dioxide"}]}
+{"messages": [{"role": "user", "content": "How many cards are there in a complete pack of cards?"}, {"role": "assistant", "content": "52"}]}
+{"messages": [{"role": "user", "content": "What is the name of the biggest rain forest in the world?"}, {"role": "assistant", "content": "The Amazon"}]}
+{"messages": [{"role": "user", "content": "Which African nation is famous for chocolate?"}, {"role": "assistant", "content": "Ghana"}]}
+{"messages": [{"role": "user", "content": "What makes up (approx ) 80% of our brain\u2019s volume?"}, {"role": "assistant", "content": "Water"}]}
+{"messages": [{"role": "user", "content": "Which instrument is used for measuring wind speed?"}, {"role": "assistant", "content": "Anemometer"}]}
+{"messages": [{"role": "user", "content": "\u2018Stars and Stripes\u2019 is the nickname of the flag of which country?"}, {"role": "assistant", "content": "United States of America"}]}
+{"messages": [{"role": "user", "content": "Which language is used by the computer to process data?"}, {"role": "assistant", "content": "Binary language"}]}
+{"messages": [{"role": "user", "content": "What covers approximately 71% of the Earth\u2019s surface: Land or water?"}, {"role": "assistant", "content": "Water"}]}
+{"messages": [{"role": "user", "content": "Which is the hardest substance available on earth?"}, {"role": "assistant", "content": "Diamond"}]}
+{"messages": [{"role": "user", "content": "Which is the biggest desert in the world?"}, {"role": "assistant", "content": "Sahara desert"}]}
+{"messages": [{"role": "user", "content": "Which country gifted The Statue of Liberty to the United States?"}, {"role": "assistant", "content": "France"}]}
+{"messages": [{"role": "user", "content": "What is the name of the Greek God of music?"}, {"role": "assistant", "content": "Apollo"}]}
+{"messages": [{"role": "user", "content": "What does the \u201cSIM\u201d in the SIM card stand for?"}, {"role": "assistant", "content": "Subscriber Identity Module"}]}
+{"messages": [{"role": "user", "content": "Which is the first element on the periodic table of elements?"}, {"role": "assistant", "content": "Hydrogen"}]}
+{"messages": [{"role": "user", "content": "Which is the longest written Constitution in the world?"}, {"role": "assistant", "content": "India"}]}
+{"messages": [{"role": "user", "content": "What is the largest joint in the human body?"}, {"role": "assistant", "content": "Knee"}]}
+{"messages": [{"role": "user", "content": "Which is the smallest bone in the human body?"}, {"role": "assistant", "content": "Stapes (Ear bone)"}]}
+{"messages": [{"role": "user", "content": "Which instrument is used to measure Atmospheric Pressure?"}, {"role": "assistant", "content": "Barometer"}]}
+{"messages": [{"role": "user", "content": "Which is the largest continent in the world?"}, {"role": "assistant", "content": "Asia"}]}
+{"messages": [{"role": "user", "content": "Who is the inventor of the electric Bulb?"}, {"role": "assistant", "content": "Thomas Alva Edison"}]}
+{"messages": [{"role": "user", "content": "On whose memory Nobel Prize is awarded?"}, {"role": "assistant", "content": "Alfred Nobel"}]}
+{"messages": [{"role": "user", "content": "Who is the first woman to go to space?"}, {"role": "assistant", "content": "Valentina Tereshkova"}]}
+{"messages": [{"role": "user", "content": "What is HCl?"}, {"role": "assistant", "content": "Hydrochloric acid"}]}
+{"messages": [{"role": "user", "content": "What is currency of China?"}, {"role": "assistant", "content": "Renminbi"}]}
+{"messages": [{"role": "user", "content": "Chameleons have extremely long tongues, sometimes as long as their bodies. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "An ostrich\u2019s eye is bigger than its brain. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "A sneeze is faster than the blink of an eye. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "Pigs can look up into the sky. True or False?"}, {"role": "assistant", "content": "False (They cannot)"}]}
+{"messages": [{"role": "user", "content": "There are 9 planets in our Solar System. True or False?"}, {"role": "assistant", "content": "False (Our Solar system has only 8 planets; Pluto is a dwarf planet)"}]}
+{"messages": [{"role": "user", "content": "Mark Zuckerburg is the father of modern computers. True or False?"}, {"role": "assistant", "content": "False (Charles Babbage is the father of modern computers)"}]}
+{"messages": [{"role": "user", "content": "The egg of a Hummingbird is the smallest egg in the world. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "Frogs have to drink lots of water. True or False?"}, {"role": "assistant", "content": "FALSE"}]}
+{"messages": [{"role": "user", "content": "Some animals can get sunburn. True or False?"}, {"role": "assistant", "content": "True (Animals like dogs, cats and cows can get sunburns at the tip of their noses and ears)."}]}
+{"messages": [{"role": "user", "content": "William Shakespeare is a scientist. True or False?"}, {"role": "assistant", "content": "False (He is a dramatist)"}]}
+{"messages": [{"role": "user", "content": "Whales have belly buttons. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "Sharks are color blind. True or False?"}, {"role": "assistant", "content": "FALSE"}]}
+{"messages": [{"role": "user", "content": "Mumbai is the capital of India. True or False?"}, {"role": "assistant", "content": "False (Delhi is the capital of India)"}]}
+{"messages": [{"role": "user", "content": "Camels store water in their humps. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "Humans have four hearts. True or False?"}, {"role": "assistant", "content": "False (Humans have one heart with four chambers)"}]}
+{"messages": [{"role": "user", "content": "All tigers have yellow eyes. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "A pediatrician is a child specialist. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "Arachnophobia is the fear of dogs. True or False?"}, {"role": "assistant", "content": "False (It is the fear of spiders)"}]}
+{"messages": [{"role": "user", "content": "Dodo is an endangered bird. True or False?"}, {"role": "assistant", "content": "False (Dodo is an extinct bird)"}]}
+{"messages": [{"role": "user", "content": "Bhagat Singh is a Freedom fighter of India. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "Washington DC is the capital of China. True or False?"}, {"role": "assistant", "content": "False (Beijing is the capital of China)"}]}
+{"messages": [{"role": "user", "content": "June 5 is celebrated as Environment Day. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "Laika, the dog is the first animal to go to space. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "Roman Calendar is named as Julian Calendar. True or False?"}, {"role": "assistant", "content": "TRUE"}]}
+{"messages": [{"role": "user", "content": "There are 12 players in a cricket team. True or False?"}, {"role": "assistant", "content": "False (There are 11 players in a cricket team)"}]}
+{"messages": [{"role": "user", "content": "Ball, Bat, Stump, Hockey stick. True or False?"}, {"role": "assistant", "content": "Hockey stick"}]}
+{"messages": [{"role": "user", "content": "Hen, Dove, Pigeon, Cat"}, {"role": "assistant", "content": "Cat"}]}
+{"messages": [{"role": "user", "content": "Hammer, Blacksmith, Carpenter, Cobbler"}, {"role": "assistant", "content": "Hammer"}]}
+{"messages": [{"role": "user", "content": "Jeep, Car, Bike, Boat"}, {"role": "assistant", "content": "Boat"}]}
+{"messages": [{"role": "user", "content": "Doctor, Surgeon, Nurse, Teacher"}, {"role": "assistant", "content": "Teacher"}]}
+{"messages": [{"role": "user", "content": "Mother, Father, Brother, Friend"}, {"role": "assistant", "content": "Friend"}]}
+{"messages": [{"role": "user", "content": "Earth, Mercury, Jupiter, Pluto"}, {"role": "assistant", "content": "Pluto"}]}
+{"messages": [{"role": "user", "content": "Cabbage, Potato, Capsicum, Tomato"}, {"role": "assistant", "content": "Potato"}]}
+{"messages": [{"role": "user", "content": "Pen, Pencil, Eraser, Ink Pen"}, {"role": "assistant", "content": "Eraser"}]}
+{"messages": [{"role": "user", "content": "Aeroplane, Helicopter, Ship, Jet"}, {"role": "assistant", "content": "Ship"}]}
+{"messages": [{"role": "user", "content": "Carrot, Mango, Banana, Apple"}, {"role": "assistant", "content": "Carrot"}]}
+{"messages": [{"role": "user", "content": "Cow, Lion, Dog, Cat"}, {"role": "assistant", "content": "Lion"}]}
+{"messages": [{"role": "user", "content": "2, 6, 7, 10"}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "P J  Abdul Kalaam, C V  Raman, Issac Newton, William Shakespeare"}, {"role": "assistant", "content": "William Shakespeare"}]}
+{"messages": [{"role": "user", "content": "Dispur, Pune, Patna, Shimla"}, {"role": "assistant", "content": "Pune"}]}
+{"messages": [{"role": "user", "content": "1, 2, 4, 5"}, {"role": "assistant", "content": "4"}]}
+{"messages": [{"role": "user", "content": "Asia, Europe, China, Australia"}, {"role": "assistant", "content": "China"}]}
+{"messages": [{"role": "user", "content": "Radio, Television, Loudspeaker, Stereo"}, {"role": "assistant", "content": "Television"}]}
+{"messages": [{"role": "user", "content": "Respiration, Digestion, Excretion, Photosynthesis"}, {"role": "assistant", "content": "Photosynthesis"}]}
+{"messages": [{"role": "user", "content": "Hydrogen, Hypochlorite, Helium, Lithium"}, {"role": "assistant", "content": "Hypochlorite"}]}
+{"messages": [{"role": "user", "content": "Noun, Pronoun, Articles, Adverb"}, {"role": "assistant", "content": "Articles"}]}
+{"messages": [{"role": "user", "content": "Throat, Tongue, Nose, Ears"}, {"role": "assistant", "content": "Throat"}]}
+{"messages": [{"role": "user", "content": "Coffee Powder, Chili Powder, Tea Powder, Green Tea Powder"}, {"role": "assistant", "content": "Chilli Powder"}]}
+{"messages": [{"role": "user", "content": "Vitamin A, Vitamin B, Vitamin D, Vitamin K"}, {"role": "assistant", "content": "Vitamin B"}]}
+{"messages": [{"role": "user", "content": "Dinosaur, Elephant, Hippopotamus, Giraffe"}, {"role": "assistant", "content": "Dinosaur"}]}
+{"messages": [{"role": "user", "content": "What is the place where books are kept called? a) Zoo b) Library c) Garden d) Museum"}, {"role": "assistant", "content": "B. Library"}]}
+{"messages": [{"role": "user", "content": "How many digits are there in Mathematics? a) Hundred b) Thousand c) Billion d) Infinite"}, {"role": "assistant", "content": "D. Infinite"}]}
+{"messages": [{"role": "user", "content": "Who is the first Prime Minister of India? a) P.J. Abdul Kalaam b) Jawaharlal Nehru c) Indira Gandhi d) Narendra Modi"}, {"role": "assistant", "content": "B. Jawaharlal Nehru"}]}
+{"messages": [{"role": "user", "content": "How many bananas will there be in a dozen banana? a) 8 b) 9 c) 10 d) 12"}, {"role": "assistant", "content": "D.12"}]}
+{"messages": [{"role": "user", "content": "Who is Mickey Mouse? a) Actor b) Scientist c)\u00a0 Cartoon Character d) Doctor"}, {"role": "assistant", "content": "C. Cartoon Character"}]}
+{"messages": [{"role": "user", "content": "Who is the author of \u201cGod of Small Things\u201d? a) Gabriel Garcia Marquez b) Aravind Adiga c) Arundhati Roy d) Victor Hugo"}, {"role": "assistant", "content": "C. Arundhati Roy"}]}
+{"messages": [{"role": "user", "content": "What is the value of Pie? a) 14 b) 916 c) 13 d) 34"}, {"role": "assistant", "content": "A. 3.14 (22/7)"}]}
+{"messages": [{"role": "user", "content": "What is the position of Earth in our Solar system? a) First b) Second c) Third d) Fourth"}, {"role": "assistant", "content": "C. Third"}]}
+{"messages": [{"role": "user", "content": "Which is the biggest continent? a)Asia b) Africa c) Australia d) Europe"}, {"role": "assistant", "content": "A. Asia"}]}
+{"messages": [{"role": "user", "content": "How many wonders do we have in the world? a) Six b) Seven c) Eight d) Nine"}, {"role": "assistant", "content": "B. Seven"}]}
+{"messages": [{"role": "user", "content": "Who found the concept of \u201cGravitation\u201d for the first time? a) Albert Einstein b) Charles Darwin c) Issac Newton d) V. Raman"}, {"role": "assistant", "content": "C. Issac Newton"}]}
+{"messages": [{"role": "user", "content": "Who is the author of \u201cJulius Caesar\u201d? a) William Shakespeare b) Geoffrey Chaucer c) John Milton d) Sylvia Plath"}, {"role": "assistant", "content": "A. William Shakespeare"}]}
+{"messages": [{"role": "user", "content": "When is UN day celebrated? a) October 21 b) June 24 c) October 24 d) June 21"}, {"role": "assistant", "content": "C. October 24"}]}
+{"messages": [{"role": "user", "content": "What are constellations? a) Group of planets b) Group of galaxies c) Group of stars d) Group of meteors"}, {"role": "assistant", "content": "C. Group of stars"}]}
+{"messages": [{"role": "user", "content": "Which planet is known as \u201cThe Blue Planet\u201d? a) Mercury b) Venus c) Uranus d) Earth"}, {"role": "assistant", "content": "D. Earth"}]}
+{"messages": [{"role": "user", "content": "What is the person who compiles a dictionary called? a) Lexicographer b) Editor c) Compiler d) Director"}, {"role": "assistant", "content": "A. Lexicographer"}]}
+{"messages": [{"role": "user", "content": "What is the driver of a Train called? a) Pilot b) Train Driver c) Locopilot d) Captain"}, {"role": "assistant", "content": "C. Locopilot"}]}
+{"messages": [{"role": "user", "content": "What is the full form of RBI? a) Reputed Bank of India b) Reserve Bank of India c) Recovery Bank of India d) Reduced Bank of India"}, {"role": "assistant", "content": "B. Reserve Bank of India"}]}
+{"messages": [{"role": "user", "content": "What is the \u201cFear of Darkness\u201d called? a) Nyctophobia b) Ablutophobia c) Ophidiophobia d) Arachnophobia"}, {"role": "assistant", "content": "A. Nyctophobia"}]}
+{"messages": [{"role": "user", "content": "What is the capital city of Peru? a) Lima b) Rome c) Los Angeles d) Prague"}, {"role": "assistant", "content": "A. Lima"}]}
+{"messages": [{"role": "user", "content": "How many states are there in India? a) 27 b) 28 c) 29 d) 30"}, {"role": "assistant", "content": "B. 29"}]}
+{"messages": [{"role": "user", "content": "Who discovered Aeroplane? a) Wright Brothers b) Steve Waugh c) Albert Einstein d) Stephen Hawking"}, {"role": "assistant", "content": "A. Wright Brothers"}]}
+{"messages": [{"role": "user", "content": "Which bird is the universal symbol of Peace? a) Pigeon b) Dove c) Peacock d) Pelican"}, {"role": "assistant", "content": "B. Dove"}]}
+{"messages": [{"role": "user", "content": "What causes Anemia? a) By the deficiency of Iron b) By the deficiency of Iodine c) By the deficiency of Vitamin D d) By the deficiency Calcium"}, {"role": "assistant", "content": "A. By the deficiency of Iron"}]}
+{"messages": [{"role": "user", "content": "Who is a \u201cChef\u201d? a) A person who drives a car b) A person who cooks food c) A person who acts d) A person who treats patients"}, {"role": "assistant", "content": "B. A person who cooks food"}]}
+{"messages": [{"role": "user", "content": "What is the color of the sky?"}, {"role": "assistant", "content": "Blue"}]}
+{"messages": [{"role": "user", "content": "What is the job of a Doctor?"}, {"role": "assistant", "content": "A Doctor treats sick people."}]}
+{"messages": [{"role": "user", "content": "What comes after 10 and before 13?"}, {"role": "assistant", "content": "12"}]}
+{"messages": [{"role": "user", "content": "Where does fish live?"}, {"role": "assistant", "content": "In Water"}]}
+{"messages": [{"role": "user", "content": "What is sun?"}, {"role": "assistant", "content": "Sun is a big ball of fire."}]}
+{"messages": [{"role": "user", "content": "Who is Virat Kohli?"}, {"role": "assistant", "content": "Indian Cricketer"}]}
+{"messages": [{"role": "user", "content": "How many noses do you have?"}, {"role": "assistant", "content": "One"}]}
+{"messages": [{"role": "user", "content": "What is the color of Mango?"}, {"role": "assistant", "content": "Yellow"}]}
+{"messages": [{"role": "user", "content": "In which planet do we live?"}, {"role": "assistant", "content": "Earth"}]}
+{"messages": [{"role": "user", "content": "What is the young one of a cat called?"}, {"role": "assistant", "content": "Kitten"}]}
+{"messages": [{"role": "user", "content": "How many years are there in a century?"}, {"role": "assistant", "content": "Hundred"}]}
+{"messages": [{"role": "user", "content": "Which is the national game of India?"}, {"role": "assistant", "content": "Hockey"}]}
+{"messages": [{"role": "user", "content": "What is the full form of TV?"}, {"role": "assistant", "content": "Television"}]}
+{"messages": [{"role": "user", "content": "Solve 27*0"}, {"role": "assistant", "content": "Zero (Any number multiplied by zero gives zero as the answer)"}]}
+{"messages": [{"role": "user", "content": "Which all animals give us milk?"}, {"role": "assistant", "content": "Cow, goat and buffalo"}]}
+{"messages": [{"role": "user", "content": "What is the home of a lion called?"}, {"role": "assistant", "content": "Den"}]}
+{"messages": [{"role": "user", "content": "How many days are there in a week?"}, {"role": "assistant", "content": "Seven"}]}
+{"messages": [{"role": "user", "content": "Where do we deposit money?"}, {"role": "assistant", "content": "Bank"}]}
+{"messages": [{"role": "user", "content": "What is the place where animals are kept called?"}, {"role": "assistant", "content": "Zoo"}]}
+{"messages": [{"role": "user", "content": "What is COVID-19?"}, {"role": "assistant", "content": "It is deadly disease spread across the world during 2019 and 2020."}]}
+{"messages": [{"role": "user", "content": "What is Beri-Beri?"}, {"role": "assistant", "content": "It is a disease caused due to the deficiency of Vitamin B"}]}
+{"messages": [{"role": "user", "content": "Where do we get coconut from?"}, {"role": "assistant", "content": "We get coconut from coconut Tree"}]}
+{"messages": [{"role": "user", "content": "Which state in India is known as \u201cGod\u2019s Own Country\u201d?"}, {"role": "assistant", "content": "Kerala"}]}
+{"messages": [{"role": "user", "content": "How do plants make food?"}, {"role": "assistant", "content": "Plants make food through the process called Photosynthesis."}]}
+{"messages": [{"role": "user", "content": "Which place is known as the \u201cLand of White Elephants\u201d?"}, {"role": "assistant", "content": "Thailand"}]}
+{"messages": [{"role": "user", "content": "How many players are there in each side of a Hockey team?"}, {"role": "assistant", "content": "11"}]}
+{"messages": [{"role": "user", "content": "How many players are there in each side of a Basket Ball team?"}, {"role": "assistant", "content": "5"}]}
+{"messages": [{"role": "user", "content": "Commonwealth Games are held in every _ years"}, {"role": "assistant", "content": "4 years"}]}
+{"messages": [{"role": "user", "content": "How many Grand Slam Tennis Tournaments are held every year?"}, {"role": "assistant", "content": "4"}]}
+{"messages": [{"role": "user", "content": "In which sports, the term HAT-TRICK is used?"}, {"role": "assistant", "content": "Cricket"}]}
+{"messages": [{"role": "user", "content": "Number of players in one team of Kho Kho are"}, {"role": "assistant", "content": "Nine"}]}
+{"messages": [{"role": "user", "content": "Eden Gardens cricket stadium is in \u2013"}, {"role": "assistant", "content": "Calcutta"}]}
+{"messages": [{"role": "user", "content": "Which country will host Cricket World Cup 2019 \u2013"}, {"role": "assistant", "content": "England"}]}
+{"messages": [{"role": "user", "content": "Football was introduced as a competitive game in Olympics in year \u2013"}, {"role": "assistant", "content": "1908"}]}
+{"messages": [{"role": "user", "content": "Hockey is the National sports of \u2013"}, {"role": "assistant", "content": "India and Pakistan"}]}
+{"messages": [{"role": "user", "content": "Which is the National sport of Canada?"}, {"role": "assistant", "content": "Lacrosse/Ice hockey"}]}
+{"messages": [{"role": "user", "content": "_ has Cricket as its National S"}, {"role": "assistant", "content": "Jamaica"}]}
+{"messages": [{"role": "user", "content": "_ is the national sport of Turkey"}, {"role": "assistant", "content": "Wrestling"}]}
+{"messages": [{"role": "user", "content": "In which country Commonwealth games were held in 2010?"}, {"role": "assistant", "content": "India"}]}
+{"messages": [{"role": "user", "content": "Which country has hosted Commonwealth Games for the maximum number of times?"}, {"role": "assistant", "content": "Canada"}]}
+{"messages": [{"role": "user", "content": "Caddie is related to __________"}, {"role": "assistant", "content": "Golf"}]}
+{"messages": [{"role": "user", "content": "In which year Olympic Games were cancelled because of World War I?"}, {"role": "assistant", "content": "1916"}]}
+{"messages": [{"role": "user", "content": "Who was the winner of Football World Cup in 2010?"}, {"role": "assistant", "content": "Spain"}]}
+{"messages": [{"role": "user", "content": "Where did the game of Badminton originate from?"}, {"role": "assistant", "content": "Pune"}]}
+{"messages": [{"role": "user", "content": "When is national sports day of India celebrated?"}, {"role": "assistant", "content": "August 22"}]}
+{"messages": [{"role": "user", "content": "When was women\u2019s and men\u2019s doubles introduced in Wimbledon?"}, {"role": "assistant", "content": "1884"}]}
+{"messages": [{"role": "user", "content": "Who among the following is known as \u201cFlying Sikh of India\u201d"}, {"role": "assistant", "content": "Milkha Singh"}]}
+{"messages": [{"role": "user", "content": "Total Olympic medals won by India in 2012"}, {"role": "assistant", "content": "Six"}]}
+{"messages": [{"role": "user", "content": "The only driver in Indian Grand Prix 2011 is"}, {"role": "assistant", "content": "Alice Powell"}]}
+{"messages": [{"role": "user", "content": "How many months are there in a year?"}, {"role": "assistant", "content": "12"}]}
+{"messages": [{"role": "user", "content": "How many days are there in a week?"}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "How many days are there in a year?"}, {"role": "assistant", "content": "365"}]}
+{"messages": [{"role": "user", "content": "Which number comes after 15?"}, {"role": "assistant", "content": "16"}]}
+{"messages": [{"role": "user", "content": "How many colours are there in a rainbow?"}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "We use our ears to ______."}, {"role": "assistant", "content": "Hear"}]}
+{"messages": [{"role": "user", "content": "Name the day that comes after Tuesday?"}, {"role": "assistant", "content": "Wednesday"}]}
+{"messages": [{"role": "user", "content": "How many vowels are there in the English alphabet?"}, {"role": "assistant", "content": "5"}]}
+{"messages": [{"role": "user", "content": "A cow has ____ legs."}, {"role": "assistant", "content": "4"}]}
+{"messages": [{"role": "user", "content": "Which gas do humans need to breathe to live?"}, {"role": "assistant", "content": "Oxygen"}]}
+{"messages": [{"role": "user", "content": "Which month comes after October?"}, {"role": "assistant", "content": "November"}]}
+{"messages": [{"role": "user", "content": "How many zeroes are there in one thousand?"}, {"role": "assistant", "content": "Three"}]}
+{"messages": [{"role": "user", "content": "How many hands do you have?"}, {"role": "assistant", "content": "2"}]}
+{"messages": [{"role": "user", "content": "We chew food using our ____________."}, {"role": "assistant", "content": "Teeth"}]}
+{"messages": [{"role": "user", "content": "Which sense organ do you use to smell?"}, {"role": "assistant", "content": "Nose"}]}
+{"messages": [{"role": "user", "content": "Which part of the plant is brown and below the ground?"}, {"role": "assistant", "content": "Roots"}]}
+{"messages": [{"role": "user", "content": "Which part of a plant has seeds?"}, {"role": "assistant", "content": "Fruit"}]}
+{"messages": [{"role": "user", "content": "Which part of a plant soaks up nutrients and water from the soil?"}, {"role": "assistant", "content": "Root"}]}
+{"messages": [{"role": "user", "content": "Which bird has a far sight and turns its head all the way round?"}, {"role": "assistant", "content": "Owl"}]}
+{"messages": [{"role": "user", "content": "Which animal eats mice?"}, {"role": "assistant", "content": "20"}]}
+{"messages": [{"role": "user", "content": "Which animal wags its tail and lives in a kennel?"}, {"role": "assistant", "content": "Dog"}]}
+{"messages": [{"role": "user", "content": "Which animal has a long nose known as trunk?"}, {"role": "assistant", "content": "Elephant"}]}
+{"messages": [{"role": "user", "content": "Which animal likes honey?"}, {"role": "assistant", "content": "Bear"}]}
+{"messages": [{"role": "user", "content": "Name a cunning animal?"}, {"role": "assistant", "content": "Fox"}]}
+{"messages": [{"role": "user", "content": "Which animal has a long neck?"}, {"role": "assistant", "content": "Giraffe"}]}
+{"messages": [{"role": "user", "content": "Which animal has black and white stripes on its body?"}, {"role": "assistant", "content": "Zebra"}]}
+{"messages": [{"role": "user", "content": "Which animal gives us wool?"}, {"role": "assistant", "content": "Sheep"}]}
+{"messages": [{"role": "user", "content": "February has _____ days in a leap year."}, {"role": "assistant", "content": "29"}]}
+{"messages": [{"role": "user", "content": "Which is the largest river island in Asia?"}, {"role": "assistant", "content": "Majuli Island (Assam)"}]}
+{"messages": [{"role": "user", "content": "Which shape has three sides?"}, {"role": "assistant", "content": "Triangle"}]}
+{"messages": [{"role": "user", "content": "How many weeks are there in a year?"}, {"role": "assistant", "content": "52 Week"}]}
+{"messages": [{"role": "user", "content": "There are ____ months in a year."}, {"role": "assistant", "content": "12"}]}
+{"messages": [{"role": "user", "content": "Name the shape with five sides?"}, {"role": "assistant", "content": "Pentagon"}]}
+{"messages": [{"role": "user", "content": "Home of a pig is called ______."}, {"role": "assistant", "content": "Sty"}]}
+{"messages": [{"role": "user", "content": "Name the largest island in the world?"}, {"role": "assistant", "content": "Greenland"}]}
+{"messages": [{"role": "user", "content": "Which is the largest mammal on Earth?"}, {"role": "assistant", "content": "Blue Whale"}]}
+{"messages": [{"role": "user", "content": "What is the name of the story where Ella leaves her glass slipper while attending the royal ball?"}, {"role": "assistant", "content": "Cinderella"}]}
+{"messages": [{"role": "user", "content": "Which fairy tale character meets seven dwarfs in a cottage?"}, {"role": "assistant", "content": "Snow White"}]}
+{"messages": [{"role": "user", "content": "Name the fairy tale character with long golden hair trapped in a tower?"}, {"role": "assistant", "content": "Rapunzel"}]}
+{"messages": [{"role": "user", "content": "Name the fairy tale character, who is a poor thief and has a magic lamp?"}, {"role": "assistant", "content": "Aladdin"}]}
+{"messages": [{"role": "user", "content": "Which fairy tale character meets a Big Bad wolf while going to visit her grandmother in the woods?"}, {"role": "assistant", "content": "Little Red Riding Hood"}]}
+{"messages": [{"role": "user", "content": "Name the story in which a young girl falls through a rabbit hole, goes to a fantasy world and meets many strange characters?"}, {"role": "assistant", "content": "Alice\u2019s Adventures in Wonderland"}]}
+{"messages": [{"role": "user", "content": "Name the shape with seven sides?"}, {"role": "assistant", "content": "Heptagon"}]}
+{"messages": [{"role": "user", "content": "Planet Earth is shaped like a __________."}, {"role": "assistant", "content": "Sphere"}]}
+{"messages": [{"role": "user", "content": "A shape with six sides is called ________."}, {"role": "assistant", "content": "Hexagon"}]}
+{"messages": [{"role": "user", "content": "A shape with ten sides is called ________."}, {"role": "assistant", "content": "Decagon"}]}
+{"messages": [{"role": "user", "content": "How many sides does an octagon have?"}, {"role": "assistant", "content": "8"}]}
+{"messages": [{"role": "user", "content": "What is the color of human blood?"}, {"role": "assistant", "content": "Red"}]}
+{"messages": [{"role": "user", "content": "Which colour symbolizes peace?"}, {"role": "assistant", "content": "White"}]}
+{"messages": [{"role": "user", "content": "In which season do we use cotton clothes?"}, {"role": "assistant", "content": "Summer"}]}
+{"messages": [{"role": "user", "content": "The colour of cow\u2019s milk is ________."}, {"role": "assistant", "content": "White"}]}
+{"messages": [{"role": "user", "content": "What comes after 35?"}, {"role": "assistant", "content": "36"}]}
+{"messages": [{"role": "user", "content": "The tusks of elephants are made of ______."}, {"role": "assistant", "content": "Ivory"}]}
+{"messages": [{"role": "user", "content": "Kangaroos have _____ to carry their young ones."}, {"role": "assistant", "content": "Pouches"}]}
+{"messages": [{"role": "user", "content": "Cheese is made from _______."}, {"role": "assistant", "content": "Milk"}]}
+{"messages": [{"role": "user", "content": "Taste of sugar is _______."}, {"role": "assistant", "content": "Sweet"}]}
+{"messages": [{"role": "user", "content": "Taste of tamarind is _______."}, {"role": "assistant", "content": "Sour"}]}
+{"messages": [{"role": "user", "content": "We wear a watch on our _______."}, {"role": "assistant", "content": "Wrist"}]}
+{"messages": [{"role": "user", "content": "What is 10+4?"}, {"role": "assistant", "content": "14"}]}
+{"messages": [{"role": "user", "content": "A goat has ______ legs."}, {"role": "assistant", "content": "4"}]}
+{"messages": [{"role": "user", "content": "Earth has ____ natural satellite(s)."}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "The leaves of a tree fall during which season?"}, {"role": "assistant", "content": "Autumn"}]}
+{"messages": [{"role": "user", "content": "A person who goes to space is called an ________."}, {"role": "assistant", "content": "Astronaut"}]}
+{"messages": [{"role": "user", "content": "A young frog is called a _______."}, {"role": "assistant", "content": "Tadpole"}]}
+{"messages": [{"role": "user", "content": "Which colour of the traffic light indicates \u201cwait\u201d?"}, {"role": "assistant", "content": "Yellow"}]}
+{"messages": [{"role": "user", "content": "Which is the first letter of the English alphabet?"}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "Whom do we call to put out fire?"}, {"role": "assistant", "content": "Fireman"}]}
+{"messages": [{"role": "user", "content": "Name the vehicle used by firemen?"}, {"role": "assistant", "content": "Fire engine"}]}
+{"messages": [{"role": "user", "content": "Orange is a source of which vitamin?"}, {"role": "assistant", "content": "Vitamin C"}]}
+{"messages": [{"role": "user", "content": "Humans have _____ toes."}, {"role": "assistant", "content": "Ten"}]}
+{"messages": [{"role": "user", "content": "A hen lives in a _____."}, {"role": "assistant", "content": "Coop"}]}
+{"messages": [{"role": "user", "content": "Your father\u2019s brother is your _________."}, {"role": "assistant", "content": "Uncle"}]}
+{"messages": [{"role": "user", "content": "Which insect makes a web?"}, {"role": "assistant", "content": "Spider"}]}
+{"messages": [{"role": "user", "content": "Which magic word do you use while asking for something?"}, {"role": "assistant", "content": "Please"}]}
+{"messages": [{"role": "user", "content": "Which magic word do you use when someone helps you?"}, {"role": "assistant", "content": "Thank you"}]}
+{"messages": [{"role": "user", "content": "Which of these is a green-colored vegetable?"}, {"role": "assistant", "content": "C. Pea\u00a0"}]}
+{"messages": [{"role": "user", "content": "What is the Color of the Leaves?"}, {"role": "assistant", "content": "B. Green"}]}
+{"messages": [{"role": "user", "content": "Identify the Tree"}, {"role": "assistant", "content": "A. Coconut Tree"}]}
+{"messages": [{"role": "user", "content": "Who is the king of the jungle?"}, {"role": "assistant", "content": "B. Lion"}]}
+{"messages": [{"role": "user", "content": "Which part of your body do you use to see?"}, {"role": "assistant", "content": "D. Eyes"}]}
+{"messages": [{"role": "user", "content": "How many fingers are there in your hands?"}, {"role": "assistant", "content": "D. Ten"}]}
+{"messages": [{"role": "user", "content": "Which of the following animals give us milk?"}, {"role": "assistant", "content": "A. Cow"}]}
+{"messages": [{"role": "user", "content": "What is the color of sunflowers?"}, {"role": "assistant", "content": "B. Yellow"}]}
+{"messages": [{"role": "user", "content": "Which animal is known as \u201cShip of Desert\u201d?"}, {"role": "assistant", "content": "C. Camel"}]}
+{"messages": [{"role": "user", "content": "How many legs do you have?"}, {"role": "assistant", "content": "Two"}]}
+{"messages": [{"role": "user", "content": "Which animal guards our house?"}, {"role": "assistant", "content": "Dog"}]}
+{"messages": [{"role": "user", "content": "Identify the bird"}, {"role": "assistant", "content": "Peacock"}]}
+{"messages": [{"role": "user", "content": "What is the color of your hair?"}, {"role": "assistant", "content": "Black"}]}
+{"messages": [{"role": "user", "content": "How many wheels does a cycle have?"}, {"role": "assistant", "content": "Two"}]}
+{"messages": [{"role": "user", "content": "Name the four main directions?"}, {"role": "assistant", "content": "North, East, West, and South"}]}
+{"messages": [{"role": "user", "content": "What food does a cow eat?"}, {"role": "assistant", "content": "Grass"}]}
+{"messages": [{"role": "user", "content": "Which number comes after 10?"}, {"role": "assistant", "content": "11"}]}
+{"messages": [{"role": "user", "content": "Which means of transport do you use in water?"}, {"role": "assistant", "content": "Ship"}]}
+{"messages": [{"role": "user", "content": "How many alphabets are there in the English language?"}, {"role": "assistant", "content": "26"}]}
+{"messages": [{"role": "user", "content": "Where do you go when you are sick?"}, {"role": "assistant", "content": "Hospital"}]}
+{"messages": [{"role": "user", "content": "A person who teaches us is known as___________?"}, {"role": "assistant", "content": "Teacher"}]}
+{"messages": [{"role": "user", "content": "Name the vowels in English."}, {"role": "assistant", "content": "A,E,I,O,U"}]}
+{"messages": [{"role": "user", "content": "How many sense organs do we have?"}, {"role": "assistant", "content": "Five"}]}
+{"messages": [{"role": "user", "content": "What is the color of the sky?"}, {"role": "assistant", "content": "Blue"}]}
+{"messages": [{"role": "user", "content": "What sound does a dog make?"}, {"role": "assistant", "content": "Bow-Bow"}]}
+{"messages": [{"role": "user", "content": "Name the shape with three sides?"}, {"role": "assistant", "content": "Triangle"}]}
+{"messages": [{"role": "user", "content": "What is the smallest two digit number?"}, {"role": "assistant", "content": "10"}]}
+{"messages": [{"role": "user", "content": "Which shape has no sides and corners?"}, {"role": "assistant", "content": "Circle"}]}
+{"messages": [{"role": "user", "content": "Which shape has all four of its sides equal?"}, {"role": "assistant", "content": "Square"}]}
+{"messages": [{"role": "user", "content": "What is the largest two digit number?"}, {"role": "assistant", "content": "99"}]}
+{"messages": [{"role": "user", "content": "What is the smallest even number?"}, {"role": "assistant", "content": "2"}]}
+{"messages": [{"role": "user", "content": "What is the place value of 4 in 654?"}, {"role": "assistant", "content": "Ones"}]}
+{"messages": [{"role": "user", "content": "4 times 8 equals ___________."}, {"role": "assistant", "content": "32"}]}
+{"messages": [{"role": "user", "content": "40+20 equals to ____________."}, {"role": "assistant", "content": "60"}]}
+{"messages": [{"role": "user", "content": "An adult human has _________ teeth."}, {"role": "assistant", "content": "32"}]}
+{"messages": [{"role": "user", "content": "Which animal gives us wool?"}, {"role": "assistant", "content": "Sheep"}]}
+{"messages": [{"role": "user", "content": "What do we get when water freezes?"}, {"role": "assistant", "content": "Ice"}]}
+{"messages": [{"role": "user", "content": "What is a house made of snow called?"}, {"role": "assistant", "content": "Igloo"}]}
+{"messages": [{"role": "user", "content": "What kind of clothes do we wear during winter?"}, {"role": "assistant", "content": "Woollen clothes"}]}
+{"messages": [{"role": "user", "content": "What are the white lines where we cross the road called?"}, {"role": "assistant", "content": "Zebra Crossing"}]}
+{"messages": [{"role": "user", "content": "A lion lives in a ______."}, {"role": "assistant", "content": "Den"}]}
+{"messages": [{"role": "user", "content": "Sun rises in the ________."}, {"role": "assistant", "content": "East"}]}
+{"messages": [{"role": "user", "content": "Sun sets in the _________."}, {"role": "assistant", "content": "West"}]}
+{"messages": [{"role": "user", "content": "What does the red light of a traffic signal indicate?"}, {"role": "assistant", "content": "20"}]}
+{"messages": [{"role": "user", "content": "What does green light of a traffic signal indicate?"}, {"role": "assistant", "content": "Go"}]}
+{"messages": [{"role": "user", "content": "India has _____ states."}, {"role": "assistant", "content": "28"}]}
+{"messages": [{"role": "user", "content": "What does a caterpillar turn into?"}, {"role": "assistant", "content": "Butterfly"}]}
+{"messages": [{"role": "user", "content": "Which Indian city is known as \u201cPink City\u201d?"}, {"role": "assistant", "content": "Jaipur"}]}
+{"messages": [{"role": "user", "content": "Which is the largest cat in the world?"}, {"role": "assistant", "content": "Siberian tiger"}]}
+{"messages": [{"role": "user", "content": "Which animal is known as the \u201cship of the desert\u201d?"}, {"role": "assistant", "content": "Camel"}]}
+{"messages": [{"role": "user", "content": "Which planet do we live on?"}, {"role": "assistant", "content": "Earth"}]}
+{"messages": [{"role": "user", "content": "How many players are there in a cricket team?"}, {"role": "assistant", "content": "11"}]}
+{"messages": [{"role": "user", "content": "The doctor who takes care of our teeth is called ________."}, {"role": "assistant", "content": "Dentist"}]}
+{"messages": [{"role": "user", "content": "Name the bird that lays the largest eggs?"}, {"role": "assistant", "content": "Ostrich"}]}
+{"messages": [{"role": "user", "content": "Our solar system has ______ planets."}, {"role": "assistant", "content": "8"}]}
+{"messages": [{"role": "user", "content": "Name the currency of Thailand?"}, {"role": "assistant", "content": "Bhat"}]}
+{"messages": [{"role": "user", "content": "What is the sound made by a lion?"}, {"role": "assistant", "content": "Roar"}]}
+{"messages": [{"role": "user", "content": "What is the young one of an elephant called?"}, {"role": "assistant", "content": "Calf"}]}
+{"messages": [{"role": "user", "content": "A pig lives in a _____."}, {"role": "assistant", "content": "Sty"}]}
+{"messages": [{"role": "user", "content": "A year has ___ weeks."}, {"role": "assistant", "content": "52"}]}
+{"messages": [{"role": "user", "content": "How many kidneys does a human body have?"}, {"role": "assistant", "content": "2"}]}
+{"messages": [{"role": "user", "content": "How many strings does a violin have?"}, {"role": "assistant", "content": "4"}]}
+{"messages": [{"role": "user", "content": "A century has ____ years."}, {"role": "assistant", "content": "100"}]}
+{"messages": [{"role": "user", "content": "How many moons does Earth have?"}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "Saturn has ____ moons."}, {"role": "assistant", "content": "82"}]}
+{"messages": [{"role": "user", "content": "How many colours are there in a rainbow?"}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "In which country can kangaroos be found?"}, {"role": "assistant", "content": "Australia"}]}
+{"messages": [{"role": "user", "content": "Name the planet in our solar system with the most number of moons?"}, {"role": "assistant", "content": "Saturn"}]}
+{"messages": [{"role": "user", "content": "Earth\u2019s atmosphere has ____ layers."}, {"role": "assistant", "content": "5"}]}
+{"messages": [{"role": "user", "content": "What are the colours of Olympic rings?"}, {"role": "assistant", "content": "Blue, Red, Green, Yellow and Black"}]}
+{"messages": [{"role": "user", "content": "A spider has _____ legs."}, {"role": "assistant", "content": "Eight"}]}
+{"messages": [{"role": "user", "content": "Which is the smallest continent in the world?"}, {"role": "assistant", "content": "Australia"}]}
+{"messages": [{"role": "user", "content": "How many days are there in a year?"}, {"role": "assistant", "content": "365"}]}
+{"messages": [{"role": "user", "content": "Which month has the least number of days?"}, {"role": "assistant", "content": "February"}]}
+{"messages": [{"role": "user", "content": "Which part of a plant grows under the soil?"}, {"role": "assistant", "content": "Root"}]}
+{"messages": [{"role": "user", "content": "What is the currency of UK?"}, {"role": "assistant", "content": "Pound Sterling"}]}
+{"messages": [{"role": "user", "content": "What is the currency of Bangladesh?"}, {"role": "assistant", "content": "Taka"}]}
+{"messages": [{"role": "user", "content": "What is the currency of Pakistan?"}, {"role": "assistant", "content": "Rupee"}]}
+{"messages": [{"role": "user", "content": "What is the currency of China?"}, {"role": "assistant", "content": "Yuan"}]}
+{"messages": [{"role": "user", "content": "What is the currency of New Zealand?"}, {"role": "assistant", "content": "Dollar"}]}
+{"messages": [{"role": "user", "content": "What is the currency of Russia?"}, {"role": "assistant", "content": "Ruble"}]}
+{"messages": [{"role": "user", "content": "Tokyo is the capital of which country?"}, {"role": "assistant", "content": "Japan"}]}
+{"messages": [{"role": "user", "content": "What was the real name of Lord Buddha?"}, {"role": "assistant", "content": "Siddhartha Gautama"}]}
+{"messages": [{"role": "user", "content": "Oscar award is related to which field?"}, {"role": "assistant", "content": "Film industry"}]}
+{"messages": [{"role": "user", "content": "How many minutes are there in an hour?"}, {"role": "assistant", "content": "60"}]}
+{"messages": [{"role": "user", "content": "A triangle with all three sides equal is called _______."}, {"role": "assistant", "content": "Equilateral triangle"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Philippines?"}, {"role": "assistant", "content": "Manila"}]}
+{"messages": [{"role": "user", "content": "What do you call a person who makes furniture from wood?"}, {"role": "assistant", "content": "Carpenter"}]}
+{"messages": [{"role": "user", "content": "Which country is known as \u201cGift of Nile\u201d?"}, {"role": "assistant", "content": "Egypt"}]}
+{"messages": [{"role": "user", "content": "How many years make a decade?"}, {"role": "assistant", "content": "10"}]}
+{"messages": [{"role": "user", "content": "Which part of a plant is called \u201ckitchen of the plant\u201d?"}, {"role": "assistant", "content": "Leaf"}]}
+{"messages": [{"role": "user", "content": "We smell using our _____."}, {"role": "assistant", "content": "Nose"}]}
+{"messages": [{"role": "user", "content": "Who painted Mona Lisa?"}, {"role": "assistant", "content": "Leonardo Da Vinci"}]}
+{"messages": [{"role": "user", "content": "We use our ears to _______."}, {"role": "assistant", "content": "Hear"}]}
+{"messages": [{"role": "user", "content": "English alphabets have ____ consonants."}, {"role": "assistant", "content": "21"}]}
+{"messages": [{"role": "user", "content": "What is the shape of a cricket field?"}, {"role": "assistant", "content": "Circle"}]}
+{"messages": [{"role": "user", "content": "How many members are there in a Water Polo team?"}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "The word \u201cGrand Slam\u201d is associated with which sport?"}, {"role": "assistant", "content": "Tennis"}]}
+{"messages": [{"role": "user", "content": "What is a group of porcupines called?"}, {"role": "assistant", "content": "Prickle"}]}
+{"messages": [{"role": "user", "content": "Name a bird that can fly backwards?"}, {"role": "assistant", "content": "Humming bird"}]}
+{"messages": [{"role": "user", "content": " Who was the first Prime Minister of India?"}, {"role": "assistant", "content": "Jawaharlal Nehru"}]}
+{"messages": [{"role": "user", "content": " Which state is known as the \u2018fruit bowl\u2019 of India?"}, {"role": "assistant", "content": "Himachal Pradesh"}]}
+{"messages": [{"role": "user", "content": " What is the name of this beautiful monument?"}, {"role": "assistant", "content": "Taj Mahal"}]}
+{"messages": [{"role": "user", "content": " How many legs does a spider have?"}, {"role": "assistant", "content": " Eight"}]}
+{"messages": [{"role": "user", "content": " Name this famous Indian Cricketer."}, {"role": "assistant", "content": "Sachin Tendulkar"}]}
+{"messages": [{"role": "user", "content": " Who is popularly known as the \u201cIron Man of India\u201d?"}, {"role": "assistant", "content": "Sardar Vallabh Bhai Patel\u00a0"}]}
+{"messages": [{"role": "user", "content": " What is the sound made by a duck?"}, {"role": "assistant", "content": "Quack quack"}]}
+{"messages": [{"role": "user", "content": " The national currency of India is"}, {"role": "assistant", "content": "Rupee"}]}
+{"messages": [{"role": "user", "content": " The young one of a kangaroo is"}, {"role": "assistant", "content": "Joey"}]}
+{"messages": [{"role": "user", "content": " What is the sound made by a horse?"}, {"role": "assistant", "content": "Neigh"}]}
+{"messages": [{"role": "user", "content": " The young one of Elephant is"}, {"role": "assistant", "content": "Calf"}]}
+{"messages": [{"role": "user", "content": " Which river is infamous as the \u2018Sorrow of Bengal\u201d?"}, {"role": "assistant", "content": "Damodar River"}]}
+{"messages": [{"role": "user", "content": " _ is celebrated as the birth of Jesus Christ"}, {"role": "assistant", "content": "Christmas"}]}
+{"messages": [{"role": "user", "content": " Which is the harvest festival in Assam?"}, {"role": "assistant", "content": "Bohag Bihu\u00a0"}]}
+{"messages": [{"role": "user", "content": " Thiruvananthapuram is the capital of _."}, {"role": "assistant", "content": "Kerala"}]}
+{"messages": [{"role": "user", "content": " Which is the national sport of India?"}, {"role": "assistant", "content": "Hockey"}]}
+{"messages": [{"role": "user", "content": " What does the heart pump?"}, {"role": "assistant", "content": "Blood"}]}
+{"messages": [{"role": "user", "content": " The longest river in India"}, {"role": "assistant", "content": "Ganga"}]}
+{"messages": [{"role": "user", "content": " Which is the national fruit of India?"}, {"role": "assistant", "content": "Mango"}]}
+{"messages": [{"role": "user", "content": " How many spokes does the wheel in Indian Flag have?"}, {"role": "assistant", "content": "24 spokes"}]}
+{"messages": [{"role": "user", "content": " Who is the first citizen of India?"}, {"role": "assistant", "content": "President of India"}]}
+{"messages": [{"role": "user", "content": " Where does a pig live?"}, {"role": "assistant", "content": "Sty"}]}
+{"messages": [{"role": "user", "content": " What is the name of this famous painting?"}, {"role": "assistant", "content": "Mona Lisa"}]}
+{"messages": [{"role": "user", "content": " How many cats can you see in this picture?"}, {"role": "assistant", "content": "10 cats"}]}
+{"messages": [{"role": "user", "content": " How do you relate to your maternal grandfather?"}, {"role": "assistant", "content": "Mother\u2019s father"}]}
+{"messages": [{"role": "user", "content": "A polygon with 5 sides is called a _________."}, {"role": "assistant", "content": "Pentagon"}]}
+{"messages": [{"role": "user", "content": "What is the young one of a kangaroo called?"}, {"role": "assistant", "content": "Joey"}]}
+{"messages": [{"role": "user", "content": "What is the name of India\u2019s highest mountain peak?"}, {"role": "assistant", "content": "Kanchenjunga"}]}
+{"messages": [{"role": "user", "content": "The capital of Andaman & Nicobar Islands is ______."}, {"role": "assistant", "content": "Port Blair"}]}
+{"messages": [{"role": "user", "content": "Which is the largest country in the world, in terms of area?"}, {"role": "assistant", "content": "Russia"}]}
+{"messages": [{"role": "user", "content": "The two holes on the nose through which we breathe are called _________."}, {"role": "assistant", "content": "Nostrils"}]}
+{"messages": [{"role": "user", "content": "In which country did the game, chess, originate?"}, {"role": "assistant", "content": "India"}]}
+{"messages": [{"role": "user", "content": "The wheel in the center of Indian national flag has _____ spokes."}, {"role": "assistant", "content": "24"}]}
+{"messages": [{"role": "user", "content": "Who is the author of Harry Potter series of books?"}, {"role": "assistant", "content": "J.K. Rowling"}]}
+{"messages": [{"role": "user", "content": "Who was known as \u201cHuman Computer\u201d?"}, {"role": "assistant", "content": "Shakuntala Devi"}]}
+{"messages": [{"role": "user", "content": "Name the instrument used to measure the speed of wind?"}, {"role": "assistant", "content": "Anemometer"}]}
+{"messages": [{"role": "user", "content": "Name the smallest planet in our solar system?"}, {"role": "assistant", "content": "Mercury"}]}
+{"messages": [{"role": "user", "content": "Any number multiplied by zero is ________."}, {"role": "assistant", "content": "Zero"}]}
+{"messages": [{"role": "user", "content": "Which is the largest four-digit number?"}, {"role": "assistant", "content": "9999"}]}
+{"messages": [{"role": "user", "content": "Ganymede is the moon of which planet?"}, {"role": "assistant", "content": "Jupiter"}]}
+{"messages": [{"role": "user", "content": "Who was the first person to land on the moon?"}, {"role": "assistant", "content": "Jupiter"}]}
+{"messages": [{"role": "user", "content": "Who invented steam engine?"}, {"role": "assistant", "content": "James Watt"}]}
+{"messages": [{"role": "user", "content": "Who was the first person to calculate the value of Pi?"}, {"role": "assistant", "content": "Archimedes"}]}
+{"messages": [{"role": "user", "content": "In which country is Mount Everest situated?"}, {"role": "assistant", "content": "Nepal"}]}
+{"messages": [{"role": "user", "content": "Which is the biggest coral reef in the world?"}, {"role": "assistant", "content": "Great Barrier Reef"}]}
+{"messages": [{"role": "user", "content": "World\u2019s largest rain forest is _________."}, {"role": "assistant", "content": "The Amazon"}]}
+{"messages": [{"role": "user", "content": "Which is the biggest part of the brain?"}, {"role": "assistant", "content": "Cerebrum"}]}
+{"messages": [{"role": "user", "content": "_________ animals sleep during the day and stay awake at night."}, {"role": "assistant", "content": "Nocturnal animals"}]}
+{"messages": [{"role": "user", "content": "Animals that eat meat are called _________."}, {"role": "assistant", "content": "Carnivores"}]}
+{"messages": [{"role": "user", "content": "Name an insectivorous plant?"}, {"role": "assistant", "content": "Venus Flytrap"}]}
+{"messages": [{"role": "user", "content": "A newborn baby has _______ bones."}, {"role": "assistant", "content": "300"}]}
+{"messages": [{"role": "user", "content": "How many millimeters make a meter?."}, {"role": "assistant", "content": "1000"}]}
+{"messages": [{"role": "user", "content": "How many millimeters make a meter?."}, {"role": "assistant", "content": "1000"}]}
+{"messages": [{"role": "user", "content": "What is an angle that has a value less than 90\u02da called?"}, {"role": "assistant", "content": "Acute angle"}]}
+{"messages": [{"role": "user", "content": "What is an angle that has a value greater than 90\u02da called?"}, {"role": "assistant", "content": "Obtuse angle"}]}
+{"messages": [{"role": "user", "content": "When a number is multiplied by 1, the product would be ________."}, {"role": "assistant", "content": "The Same Number"}]}
+{"messages": [{"role": "user", "content": "What is the art of folding paper to create shapes called?"}, {"role": "assistant", "content": "Origami"}]}
+{"messages": [{"role": "user", "content": "The flag of which country has a non-quadrilateral shape?"}, {"role": "assistant", "content": "Nepal"}]}
+{"messages": [{"role": "user", "content": "The place where beehives of honeybees are kept is called?"}, {"role": "assistant", "content": "Apiary"}]}
+{"messages": [{"role": "user", "content": "Which is the fastest land animal?"}, {"role": "assistant", "content": "Cheetah"}]}
+{"messages": [{"role": "user", "content": "Which animal has a hump on its back?"}, {"role": "assistant", "content": "Camel"}]}
+{"messages": [{"role": "user", "content": "Name a commonly found reptile?"}, {"role": "assistant", "content": "Lizard"}]}
+{"messages": [{"role": "user", "content": "Which is the largest ocean in the world?"}, {"role": "assistant", "content": "Pacific Ocean"}]}
+{"messages": [{"role": "user", "content": "Australia lies between which two oceans?"}, {"role": "assistant", "content": "Indian Ocean and Pacific Ocean"}]}
+{"messages": [{"role": "user", "content": "Which is the coldest planet in our solar system?"}, {"role": "assistant", "content": "Neptune"}]}
+{"messages": [{"role": "user", "content": "Where is food collected in the human body once it is chewed and swallowed?"}, {"role": "assistant", "content": "Stomach"}]}
+{"messages": [{"role": "user", "content": "Which pigment is responsible for the green colour of leaves?"}, {"role": "assistant", "content": "Stomach"}]}
+{"messages": [{"role": "user", "content": "Which Indian city is known as \u201cOrange City\u201d?"}, {"role": "assistant", "content": "Nagpur"}]}
+{"messages": [{"role": "user", "content": "Which city is known as the \u201cFinancial Capital of India\u201d?"}, {"role": "assistant", "content": "Mumbai"}]}
+{"messages": [{"role": "user", "content": "Which country won the first T20 world cup?"}, {"role": "assistant", "content": "India"}]}
+{"messages": [{"role": "user", "content": "Which planet in our solar system takes less than 10 hours to complete its one rotation?"}, {"role": "assistant", "content": "Jupiter"}]}
+{"messages": [{"role": "user", "content": "Which planet is known as the \u201cblue planet\u201d?"}, {"role": "assistant", "content": "Earth"}]}
+{"messages": [{"role": "user", "content": "Which star is closest to the Earth?"}, {"role": "assistant", "content": "The Sun"}]}
+{"messages": [{"role": "user", "content": "Which is the most abundant gas found on Earth?"}, {"role": "assistant", "content": "Nitrogen"}]}
+{"messages": [{"role": "user", "content": "The mixture consisting of molten rocks that flow out of a volcano during the volcanic eruption is called ________."}, {"role": "assistant", "content": "Lava"}]}
+{"messages": [{"role": "user", "content": "Earth requires ____ hours to complete one rotation."}, {"role": "assistant", "content": "24"}]}
+{"messages": [{"role": "user", "content": "What is the movement of Earth on its own axis resulting in day and night called?"}, {"role": "assistant", "content": "Rotation"}]}
+{"messages": [{"role": "user", "content": "What is the movement of Earth around the Sun resulting in change of seasons called?"}, {"role": "assistant", "content": "Revolution"}]}
+{"messages": [{"role": "user", "content": "The Earth is closest to the Sun during which season?"}, {"role": "assistant", "content": "Summer"}]}
+{"messages": [{"role": "user", "content": "Name the galaxy our solar system is a part of?"}, {"role": "assistant", "content": "Milky Way"}]}
+{"messages": [{"role": "user", "content": "Who invented video games?"}, {"role": "assistant", "content": "Ralph Baer"}]}
+{"messages": [{"role": "user", "content": "Who invented postage stamp?"}, {"role": "assistant", "content": "Rowland Hill"}]}
+{"messages": [{"role": "user", "content": "Which is the tallest animal in the world?"}, {"role": "assistant", "content": "Giraffe"}]}
+{"messages": [{"role": "user", "content": "Which is the fastest bird in the world?"}, {"role": "assistant", "content": "Ostrich"}]}
+{"messages": [{"role": "user", "content": "Which is the highest waterfall in the world?"}, {"role": "assistant", "content": "Angel Falls"}]}
+{"messages": [{"role": "user", "content": "Who wrote the world famous children\u2019s book\u2014Jungle Book?"}, {"role": "assistant", "content": "Rudyard Kipling"}]}
+{"messages": [{"role": "user", "content": "Who wrote the book \u201cChronicles of Narnia\u201d?"}, {"role": "assistant", "content": "C.S. Lewis"}]}
+{"messages": [{"role": "user", "content": "The book \u201cCharlie and the Chocolate Factory\u201d was written by _______."}, {"role": "assistant", "content": "Roald Dahl"}]}
+{"messages": [{"role": "user", "content": "Who wrote the popular children\u2019s book \u201cThe Cat in The Hat\u201d?"}, {"role": "assistant", "content": "Dr. Suess"}]}
+{"messages": [{"role": "user", "content": "The book \u201cThe Very Hungry Caterpillar\u201d was written by _________."}, {"role": "assistant", "content": "Eric Carle"}]}
+{"messages": [{"role": "user", "content": "How many years did the First World War (WWI) last?"}, {"role": "assistant", "content": "Four (1914-1918)"}]}
+{"messages": [{"role": "user", "content": "How many years did the Second World War (WWII) last?"}, {"role": "assistant", "content": "Six (1939-1945)"}]}
+{"messages": [{"role": "user", "content": "Distance between two countries is measured in __________."}, {"role": "assistant", "content": "Kilometers"}]}
+{"messages": [{"role": "user", "content": "In which country is the Eiffel Tower located?"}, {"role": "assistant", "content": "France"}]}
+{"messages": [{"role": "user", "content": "Which number is neither prime nor composite?"}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "5 times 20 equals to ______."}, {"role": "assistant", "content": "1000"}]}
+{"messages": [{"role": "user", "content": "How many months of a year have only 30 days?"}, {"role": "assistant", "content": "4 (April, June, September and November)"}]}
+{"messages": [{"role": "user", "content": "An octopus has _____ hearts."}, {"role": "assistant", "content": "Three"}]}
+{"messages": [{"role": "user", "content": "The Statue of Liberty is located in which city?"}, {"role": "assistant", "content": "New York, USA"}]}
+{"messages": [{"role": "user", "content": "Sunlight is the source of which vitamin?"}, {"role": "assistant", "content": "Vitamin D"}]}
+{"messages": [{"role": "user", "content": "How many teeth does a human have?"}, {"role": "assistant", "content": "32"}]}
+{"messages": [{"role": "user", "content": "On which planet do we live?"}, {"role": "assistant", "content": "Earth"}]}
+{"messages": [{"role": "user", "content": "How many continents do we have?"}, {"role": "assistant", "content": "Seven"}]}
+{"messages": [{"role": "user", "content": "What is the process in which plants make food known as?"}, {"role": "assistant", "content": "Photosynthesis"}]}
+{"messages": [{"role": "user", "content": "How many bones do we have?"}, {"role": "assistant", "content": "206"}]}
+{"messages": [{"role": "user", "content": "Name the biggest flower."}, {"role": "assistant", "content": "Rafflesia"}]}
+{"messages": [{"role": "user", "content": "The animals that eat only plants and herbs are called ____________."}, {"role": "assistant", "content": "Herbivores"}]}
+{"messages": [{"role": "user", "content": "Which country is known as the \u201cLand of White Elephants\u201d?"}, {"role": "assistant", "content": "Thailand"}]}
+{"messages": [{"role": "user", "content": "Which is the biggest planet in our Solar System?"}, {"role": "assistant", "content": "Jupiter"}]}
+{"messages": [{"role": "user", "content": "Who is the first woman to go to space?"}, {"role": "assistant", "content": "Valentina Tereshkova"}]}
+{"messages": [{"role": "user", "content": "Identify the Historical monument"}, {"role": "assistant", "content": "Charminar"}]}
+{"messages": [{"role": "user", "content": "Name the tallest building in the world."}, {"role": "assistant", "content": "Burj Khalifa, UAE"}]}
+{"messages": [{"role": "user", "content": "Who invented the Light Bulb?"}, {"role": "assistant", "content": "Thomas Alva Edison"}]}
+{"messages": [{"role": "user", "content": "In how many hours does earth complete one rotation?"}, {"role": "assistant", "content": "24 hours"}]}
+{"messages": [{"role": "user", "content": "Who wrote the drama \u201cJulius Caesar\u201d?"}, {"role": "assistant", "content": "William Shakespeare"}]}
+{"messages": [{"role": "user", "content": "Which is the highest mountain peak in the world?"}, {"role": "assistant", "content": "Mount Everest"}]}
+{"messages": [{"role": "user", "content": "Who is known as the father of modern computers?"}, {"role": "assistant", "content": "Charles Babbage"}]}
+{"messages": [{"role": "user", "content": "Which part of the computer is its Brain?"}, {"role": "assistant", "content": "CPU"}]}
+{"messages": [{"role": "user", "content": "Name the longest river on earth."}, {"role": "assistant", "content": "Nile"}]}
+{"messages": [{"role": "user", "content": "Name three vegetables that grow under soil."}, {"role": "assistant", "content": "Potato, Tapioca and Ginger"}]}
+{"messages": [{"role": "user", "content": "What is the value of Pi?"}, {"role": "assistant", "content": "3.14"}]}
+{"messages": [{"role": "user", "content": "Which is the most widely spoken language in the world?"}, {"role": "assistant", "content": "Mandarin (Chinese)"}]}
+{"messages": [{"role": "user", "content": "Identify the scientist."}, {"role": "assistant", "content": "Albert Einstein"}]}
+{"messages": [{"role": "user", "content": "How many days are there in a Leap Year?"}, {"role": "assistant", "content": "366"}]}
+{"messages": [{"role": "user", "content": "Name the Largest desert in the world."}, {"role": "assistant", "content": "Sahara Desert"}]}
+{"messages": [{"role": "user", "content": "Which is the largest island in the world?"}, {"role": "assistant", "content": "Greenland"}]}
+{"messages": [{"role": "user", "content": "What is the name of the sword owned by King Arthur?"}, {"role": "assistant", "content": "Excaliber"}]}
+{"messages": [{"role": "user", "content": "Who is known as \u201cNightingale of India\u201d?"}, {"role": "assistant", "content": "Sarojini Naidu"}]}
+{"messages": [{"role": "user", "content": "Who is known as the \u201cfather of geometry\u201d?"}, {"role": "assistant", "content": "Euclid"}]}
+{"messages": [{"role": "user", "content": "Who wrote the national song of India? (Vande Mataram)"}, {"role": "assistant", "content": "Bankim Chandra Chatterjee"}]}
+{"messages": [{"role": "user", "content": "When is National Girl Child Day celebrated in India?"}, {"role": "assistant", "content": "January 24"}]}
+{"messages": [{"role": "user", "content": "A leap year has _____ days."}, {"role": "assistant", "content": "366"}]}
+{"messages": [{"role": "user", "content": "Taj Mahal is situated on the banks of which river?"}, {"role": "assistant", "content": "Yamuna"}]}
+{"messages": [{"role": "user", "content": "Name the largest planet in our solar system"}, {"role": "assistant", "content": "Jupiter"}]}
+{"messages": [{"role": "user", "content": "Our solar system consists of _____ planets"}, {"role": "assistant", "content": "8"}]}
+{"messages": [{"role": "user", "content": "_____ is known as the brain of the computer."}, {"role": "assistant", "content": "CPU"}]}
+{"messages": [{"role": "user", "content": "_____ What is the full form of CPU?"}, {"role": "assistant", "content": "Central Processing Unit"}]}
+{"messages": [{"role": "user", "content": "Which part of the human body has the smallest bone?"}, {"role": "assistant", "content": "EAR"}]}
+{"messages": [{"role": "user", "content": "Penicillin was invented by ________."}, {"role": "assistant", "content": "Alexander Fleming"}]}
+{"messages": [{"role": "user", "content": "Saina Nehwal is related to which sport?"}, {"role": "assistant", "content": "Badminton"}]}
+{"messages": [{"role": "user", "content": "Giza Pyramids situated in which country?"}, {"role": "assistant", "content": "Egypt"}]}
+{"messages": [{"role": "user", "content": "Statue of liberty is situated in which city?"}, {"role": "assistant", "content": "New York"}]}
+{"messages": [{"role": "user", "content": "Which is the most sensitive organ in the human body?"}, {"role": "assistant", "content": "Skin"}]}
+{"messages": [{"role": "user", "content": "Computer was invented by _______."}, {"role": "assistant", "content": "Charles Babbage"}]}
+{"messages": [{"role": "user", "content": "Which animal is known as the ship of the desert?"}, {"role": "assistant", "content": "Camel"}]}
+{"messages": [{"role": "user", "content": "An octagon has _____ sides."}, {"role": "assistant", "content": "8"}]}
+{"messages": [{"role": "user", "content": "Which colour represents peace?"}, {"role": "assistant", "content": "White"}]}
+{"messages": [{"role": "user", "content": "How many players are there in a cricket team?"}, {"role": "assistant", "content": "11"}]}
+{"messages": [{"role": "user", "content": "Which African country is famous for chocolate?"}, {"role": "assistant", "content": "Ghana"}]}
+{"messages": [{"role": "user", "content": "Olympic Games are held every ____ years."}, {"role": "assistant", "content": "4"}]}
+{"messages": [{"role": "user", "content": "Which is the largest desert in the world?"}, {"role": "assistant", "content": "Sahara Desert"}]}
+{"messages": [{"role": "user", "content": "Which is the tallest waterfall in the world?"}, {"role": "assistant", "content": "Angel Falls"}]}
+{"messages": [{"role": "user", "content": "Which is the biggest animal in the world?"}, {"role": "assistant", "content": "Antarctic Blue Whale"}]}
+{"messages": [{"role": "user", "content": "What is another name for Table Tennis?"}, {"role": "assistant", "content": "Ping pong"}]}
+{"messages": [{"role": "user", "content": "Where will the 2024 Olympics be held?"}, {"role": "assistant", "content": "Paris"}]}
+{"messages": [{"role": "user", "content": "Dipa Karmakar is associated with which sport?"}, {"role": "assistant", "content": "Gymnastics"}]}
+{"messages": [{"role": "user", "content": "When was the first modern Olympics held?"}, {"role": "assistant", "content": "1896 (in Athens, Greece)"}]}
+{"messages": [{"role": "user", "content": "Where is leaning tower of Pisa located?"}, {"role": "assistant", "content": "Italy"}]}
+{"messages": [{"role": "user", "content": "Where is Louvre Museum situated?"}, {"role": "assistant", "content": "Paris, France"}]}
+{"messages": [{"role": "user", "content": "Which river is nicknamed \u201cSorrow of China\u201d?"}, {"role": "assistant", "content": "Yellow River"}]}
+{"messages": [{"role": "user", "content": "Where is world\u2019s tallest building, Burj Khalifa, located?"}, {"role": "assistant", "content": "Dubai, UAE"}]}
+{"messages": [{"role": "user", "content": "What was the name of the ISRO mission to Mars?"}, {"role": "assistant", "content": "Mangalyaan"}]}
+{"messages": [{"role": "user", "content": "Who invented Java programming language?"}, {"role": "assistant", "content": "James Gosling"}]}
+{"messages": [{"role": "user", "content": "Who is known as the father of C language?"}, {"role": "assistant", "content": "Dennis Ritchie"}]}
+{"messages": [{"role": "user", "content": "What is the full form of bit?"}, {"role": "assistant", "content": "Binary digit"}]}
+{"messages": [{"role": "user", "content": "What is the name of the supercomputer placed at Indian Institute of Tropical Meteorology (IITM)?"}, {"role": "assistant", "content": "Pratyush"}]}
+{"messages": [{"role": "user", "content": "Which is the world\u2019s fastest super computer?"}, {"role": "assistant", "content": "Fugaku Supercomputer"}]}
+{"messages": [{"role": "user", "content": "Which number has no reciprocal?"}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "A heptagon has _____ sides."}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "The sum of the angles of a triangle is _____."}, {"role": "assistant", "content": "180\u02da"}]}
+{"messages": [{"role": "user", "content": "Which blood cells in our body help to fight infections?"}, {"role": "assistant", "content": "White Blood Cells"}]}
+{"messages": [{"role": "user", "content": "What is the full form of BMP?"}, {"role": "assistant", "content": "Bit Map Picture"}]}
+{"messages": [{"role": "user", "content": "Monitor of a computer is an _______ device."}, {"role": "assistant", "content": "Output"}]}
+{"messages": [{"role": "user", "content": "How many oceans are there in the world?"}, {"role": "assistant", "content": "7"}]}
+{"messages": [{"role": "user", "content": "In which country is Mount Everest located?"}, {"role": "assistant", "content": "Nepal"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Belgium?"}, {"role": "assistant", "content": "Brussels"}]}
+{"messages": [{"role": "user", "content": "Who was the first President of India?"}, {"role": "assistant", "content": "Dr Rajendra Prasad"}]}
+{"messages": [{"role": "user", "content": "Who invented telescope?"}, {"role": "assistant", "content": "Galileo Galilei"}]}
+{"messages": [{"role": "user", "content": "Which is the smallest bird in the world?"}, {"role": "assistant", "content": "Humming bird"}]}
+{"messages": [{"role": "user", "content": "Which is the largest country in terms of population?"}, {"role": "assistant", "content": "China"}]}
+{"messages": [{"role": "user", "content": "Which is the largest delta in the world?"}, {"role": "assistant", "content": "Sunderban delta (Ganges-Brahmaputra Delta)"}]}
+{"messages": [{"role": "user", "content": "Durand Cup is related to which sport?"}, {"role": "assistant", "content": "Football"}]}
+{"messages": [{"role": "user", "content": "World Red Cross Day is celebrated on ________."}, {"role": "assistant", "content": "May 8th"}]}
+{"messages": [{"role": "user", "content": "Which country is known as the \u201cLand of Cakes\u201d?"}, {"role": "assistant", "content": "Scotland"}]}
+{"messages": [{"role": "user", "content": "Which is the world\u2019s largest coral reef system?"}, {"role": "assistant", "content": "The Great Barrier Reef"}]}
+{"messages": [{"role": "user", "content": "Which is the biggest bird in the world?"}, {"role": "assistant", "content": "Ostrich"}]}
+{"messages": [{"role": "user", "content": "The Statue of Liberty was a gift to the USA from which country?"}, {"role": "assistant", "content": "France"}]}
+{"messages": [{"role": "user", "content": "The largest moon of Saturn is ________."}, {"role": "assistant", "content": "Titan"}]}
+{"messages": [{"role": "user", "content": "The term \u201cwicket\u201d is related to which sport?"}, {"role": "assistant", "content": "Cricket"}]}
+{"messages": [{"role": "user", "content": "Name an insect with colourful wings?"}, {"role": "assistant", "content": "Butterfly"}]}
+{"messages": [{"role": "user", "content": "Which state is known as the Orchid Paradise of India?"}, {"role": "assistant", "content": "Arunachal Pradesh"}]}
+{"messages": [{"role": "user", "content": "Name the acid present in apple"}, {"role": "assistant", "content": "Malic acid"}]}
+{"messages": [{"role": "user", "content": "Which country awards Nobel Prize?"}, {"role": "assistant", "content": "Sweden"}]}
+{"messages": [{"role": "user", "content": "What is the currency of Malaysia?"}, {"role": "assistant", "content": "Malaysian Ringgit"}]}
+{"messages": [{"role": "user", "content": "Measurement of right angle is ___________."}, {"role": "assistant", "content": "90\u02da"}]}
+{"messages": [{"role": "user", "content": "What is a triangle with two equal sides called?"}, {"role": "assistant", "content": "Isosceles triangle"}]}
+{"messages": [{"role": "user", "content": "Which metal is used to make the filament of an electric bulb?"}, {"role": "assistant", "content": "Tungsten"}]}
+{"messages": [{"role": "user", "content": "How many consonants are there in the English alphabet?"}, {"role": "assistant", "content": "73"}]}
+{"messages": [{"role": "user", "content": "Trout and Carp are types of _________."}, {"role": "assistant", "content": "Fish/strong>"}]}
+{"messages": [{"role": "user", "content": "A polygon with 8 sides is called __________."}, {"role": "assistant", "content": "Octagon"}]}
+{"messages": [{"role": "user", "content": "Which organ purifies our blood?"}, {"role": "assistant", "content": "Kidney"}]}
+{"messages": [{"role": "user", "content": "The animal with a hump on its back is _?"}, {"role": "assistant", "content": "Camel"}]}
+{"messages": [{"role": "user", "content": "The brain of a computer is _."}, {"role": "assistant", "content": "CPU"}]}
+{"messages": [{"role": "user", "content": "The largest continent is _."}, {"role": "assistant", "content": "Asia"}]}
+{"messages": [{"role": "user", "content": "Who wrote \u2018Ramayana\u2019?"}, {"role": "assistant", "content": "Valmiki"}]}
+{"messages": [{"role": "user", "content": "How many bones are there in a newborn baby?"}, {"role": "assistant", "content": "300"}]}
+{"messages": [{"role": "user", "content": "Martyrs\u2019 Day is celebrated every year on _."}, {"role": "assistant", "content": "30th January"}]}
+{"messages": [{"role": "user", "content": "The fastest animal on earth is?"}, {"role": "assistant", "content": "Cheetah"}]}
+{"messages": [{"role": "user", "content": "Earth Day celebrated on?"}, {"role": "assistant", "content": "April 22nd"}]}
+{"messages": [{"role": "user", "content": "The National Tree of India is?"}, {"role": "assistant", "content": "Banyan Tree"}]}
+{"messages": [{"role": "user", "content": "Which is the tallest animal in the world?"}, {"role": "assistant", "content": "Giraffe"}]}
+{"messages": [{"role": "user", "content": "What is the full form of RAM?"}, {"role": "assistant", "content": "Random Access Memory"}]}
+{"messages": [{"role": "user", "content": "Who wrote \u2018Discovery of India\u2019?"}, {"role": "assistant", "content": "Jawaharlal Nehru"}]}
+{"messages": [{"role": "user", "content": "Which is the tallest statue in the world?"}, {"role": "assistant", "content": "The Statue of Unity, India"}]}
+{"messages": [{"role": "user", "content": "Young one of the horses is called?"}, {"role": "assistant", "content": "Colt"}]}
+{"messages": [{"role": "user", "content": "How many players are there in a cricket team?"}, {"role": "assistant", "content": "11"}]}
+{"messages": [{"role": "user", "content": "How many days does earth take to revolve around the sun?"}, {"role": "assistant", "content": "365 days"}]}
+{"messages": [{"role": "user", "content": "The biggest sea animal is _."}, {"role": "assistant", "content": "Dolphin"}]}
+{"messages": [{"role": "user", "content": "Which is the largest desert in India?"}, {"role": "assistant", "content": "Thar desert"}]}
+{"messages": [{"role": "user", "content": "Which is the densest jungle in the world?"}, {"role": "assistant", "content": "Amazon"}]}
+{"messages": [{"role": "user", "content": "When is Teacher\u2019s Day celebrated?"}, {"role": "assistant", "content": "September 5th"}]}
+{"messages": [{"role": "user", "content": "A place where bees are kept is called _."}, {"role": "assistant", "content": "Aviary"}]}
+{"messages": [{"role": "user", "content": "How many sides are there in a pentagon?"}, {"role": "assistant", "content": "Five"}]}
+{"messages": [{"role": "user", "content": "Which is the smallest state in India?"}, {"role": "assistant", "content": "Goa"}]}
+{"messages": [{"role": "user", "content": "Who is the father of our Nation?"}, {"role": "assistant", "content": "Mahatma Gandhi"}]}
+{"messages": [{"role": "user", "content": "Which is the 4th planet of our solar system?"}, {"role": "assistant", "content": "Mars"}]}
+{"messages": [{"role": "user", "content": "Which is the largest river in the world?"}, {"role": "assistant", "content": "Amazon"}]}
+{"messages": [{"role": "user", "content": "Name a plant that grows in the desert?"}, {"role": "assistant", "content": "Cactus"}]}
+{"messages": [{"role": "user", "content": "Which is the brightest planet in the solar system?"}, {"role": "assistant", "content": "Venus"}]}
+{"messages": [{"role": "user", "content": "A football team consists of how many members?"}, {"role": "assistant", "content": "11"}]}
+{"messages": [{"role": "user", "content": "What is the young one of a cow called?"}, {"role": "assistant", "content": "Calf"}]}
+{"messages": [{"role": "user", "content": "Which is the largest ocean in the world?"}, {"role": "assistant", "content": "Pacific Ocean"}]}
+{"messages": [{"role": "user", "content": "The branch of science that deals with earthquakes is called ___________"}, {"role": "assistant", "content": "Seismology"}]}
+{"messages": [{"role": "user", "content": "\u201cWings of Fire\u201d is the autobiography of ______________"}, {"role": "assistant", "content": "Dr. APJ Abdul Kalam"}]}
+{"messages": [{"role": "user", "content": "Which is the national bird of the USA?"}, {"role": "assistant", "content": "Bald Eagle"}]}
+{"messages": [{"role": "user", "content": "The smallest bone in the human body is __________"}, {"role": "assistant", "content": "Stapes (located in the ear)"}]}
+{"messages": [{"role": "user", "content": "Which is the deepest oceanic trench in the world?"}, {"role": "assistant", "content": "Mariana Trench"}]}
+{"messages": [{"role": "user", "content": "Name a country without an official capital?"}, {"role": "assistant", "content": "Nauru"}]}
+{"messages": [{"role": "user", "content": "Name the capital of Romania?"}, {"role": "assistant", "content": "Bucharest"}]}
+{"messages": [{"role": "user", "content": "Which is the largest plateau in the world?"}, {"role": "assistant", "content": "Tibetan Plateau"}]}
+{"messages": [{"role": "user", "content": "Young one of a horse is called?"}, {"role": "assistant", "content": "Foal"}]}
+{"messages": [{"role": "user", "content": "How many bones does an adult human body have?"}, {"role": "assistant", "content": "206"}]}
+{"messages": [{"role": "user", "content": "Who wrote the famous play, \u201cRomeo and Juliet\u201d?"}, {"role": "assistant", "content": "William Shakespeare"}]}
+{"messages": [{"role": "user", "content": "Atacama Desert is located in which continent?"}, {"role": "assistant", "content": "South America"}]}
+{"messages": [{"role": "user", "content": "Study of the universe is called?"}, {"role": "assistant", "content": "Cosmology"}]}
+{"messages": [{"role": "user", "content": "Mt. Vesuvius is located in which country?"}, {"role": "assistant", "content": "Italy"}]}
+{"messages": [{"role": "user", "content": "Who is known as the \u201cFather of Indian Space Program\u201d?"}, {"role": "assistant", "content": "Vikram Sarabhai"}]}
+{"messages": [{"role": "user", "content": "Mt. Abu is located in?"}, {"role": "assistant", "content": "India"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Armenia?"}, {"role": "assistant", "content": "Yerevan"}]}
+{"messages": [{"role": "user", "content": "\u201cB\u201d in BRICS, an international organization, stands for?"}, {"role": "assistant", "content": "Brazil"}]}
+{"messages": [{"role": "user", "content": "Where is Spratly Islands located?"}, {"role": "assistant", "content": "South China Sea"}]}
+{"messages": [{"role": "user", "content": "Where is the headquarters of European Union located?"}, {"role": "assistant", "content": "Brussels, Belgium"}]}
+{"messages": [{"role": "user", "content": "In which city is the world\u2019s largest port located?"}, {"role": "assistant", "content": "Shanghai"}]}
+{"messages": [{"role": "user", "content": "For which event did Neeraj Chopra win a gold medal at the 2020 Tokyo Olympics?"}, {"role": "assistant", "content": "Javelin throw"}]}
+{"messages": [{"role": "user", "content": "In which year did India win the first Cricket World Cup?"}, {"role": "assistant", "content": "1983"}]}
+{"messages": [{"role": "user", "content": "In which year was South Asian Association for Regional Cooperation (SAARC) established?"}, {"role": "assistant", "content": "1985"}]}
+{"messages": [{"role": "user", "content": "Which country is known as the \u201cland of the blue sky\u201d?"}, {"role": "assistant", "content": "Mongolia"}]}
+{"messages": [{"role": "user", "content": "Richter Scale is used to measure _________"}, {"role": "assistant", "content": "Magnitude of earthquakes"}]}
+{"messages": [{"role": "user", "content": "Coco Islands are located in which sea?"}, {"role": "assistant", "content": "Bay of Bengal"}]}
+{"messages": [{"role": "user", "content": "Who wrote the book \u201cMidnight\u2019s children\u201d?"}, {"role": "assistant", "content": "Salman Rushdie"}]}
+{"messages": [{"role": "user", "content": "Who was the first person to go to space?"}, {"role": "assistant", "content": "Yuri Gagarin"}]}
+{"messages": [{"role": "user", "content": "Which is the deepest lake in the world?"}, {"role": "assistant", "content": "Lake Baikal"}]}
+{"messages": [{"role": "user", "content": "Name the device that provides power to the connected devices of a computer during power outages?"}, {"role": "assistant", "content": "Uninterrupted Power Supply (UPS)"}]}
+{"messages": [{"role": "user", "content": "What is the full form of URL?"}, {"role": "assistant", "content": "Uniform Resource Locator"}]}
+{"messages": [{"role": "user", "content": "Who invented World Wide Web (www)?"}, {"role": "assistant", "content": "Tim Berners-Lee"}]}
+{"messages": [{"role": "user", "content": "When did the Internet come into existence?"}, {"role": "assistant", "content": "January 1, 1983"}]}
+{"messages": [{"role": "user", "content": "Where is the headquarters of Kaspersky Lab, the popular cyber security and anti-virus provider, located?"}, {"role": "assistant", "content": "Moscow"}]}
+{"messages": [{"role": "user", "content": "Name the planet in our solar system that is known as the \u201cRed Planet\u201d"}, {"role": "assistant", "content": "Mars"}]}
+{"messages": [{"role": "user", "content": "Name the scientist who discovered gravity?"}, {"role": "assistant", "content": "Sir Isaac Newton"}]}
+{"messages": [{"role": "user", "content": "Whose birthday is celebrated as \u201cEngineer\u2019s Day\u201d in India?"}, {"role": "assistant", "content": "Sir M Visvesaraya"}]}
+{"messages": [{"role": "user", "content": "Between which planets does the asteroid belt exist in our solar system?"}, {"role": "assistant", "content": "Mars and Jupiter"}]}
+{"messages": [{"role": "user", "content": "Who invented dynamite?"}, {"role": "assistant", "content": "Alfred Nobel"}]}
+{"messages": [{"role": "user", "content": "Name the country Alfred Nobel, the famous inventor, was born in?"}, {"role": "assistant", "content": "Sweden"}]}
+{"messages": [{"role": "user", "content": "Which is the longest bone in the human body?"}, {"role": "assistant", "content": "Femur (thigh bone)"}]}
+{"messages": [{"role": "user", "content": "Who invented airplanes?"}, {"role": "assistant", "content": "Wright brothers (Orville Wright and Wilbur Wright)"}]}
+{"messages": [{"role": "user", "content": "Which galaxy does solar system belong to?"}, {"role": "assistant", "content": "Milky Way"}]}
+{"messages": [{"role": "user", "content": "What is the speed of light in vacuum?"}, {"role": "assistant", "content": "3,00,000 km/sec"}]}
+{"messages": [{"role": "user", "content": "Which gas is commonly found in our universe?"}, {"role": "assistant", "content": "Hydrogen"}]}
+{"messages": [{"role": "user", "content": "When is World Heritage Day celebrated?"}, {"role": "assistant", "content": "April 18"}]}
+{"messages": [{"role": "user", "content": "Which is the smallest continent in the world?"}, {"role": "assistant", "content": "Australia"}]}
+{"messages": [{"role": "user", "content": "Telephone was invented by ___________"}, {"role": "assistant", "content": "Alexander Graham Bell"}]}
+{"messages": [{"role": "user", "content": "Who invented light bulb?"}, {"role": "assistant", "content": "Thomas Alva Edison"}]}
+{"messages": [{"role": "user", "content": "Which is the national game of the USA?"}, {"role": "assistant", "content": "Baseball"}]}
+{"messages": [{"role": "user", "content": "Which is the lightest gas?"}, {"role": "assistant", "content": "Hydrogen"}]}
+{"messages": [{"role": "user", "content": "Branch of science that deals with scientific study of insects is known as _________"}, {"role": "assistant", "content": "Entomology"}]}
+{"messages": [{"role": "user", "content": "Who invented the television?"}, {"role": "assistant", "content": "John Logie Baird"}]}
+{"messages": [{"role": "user", "content": "Who was known as \u201cIndian Napolean\u201d?"}, {"role": "assistant", "content": "Samudragupta"}]}
+{"messages": [{"role": "user", "content": "The total distance between the Sun and the Earth is ___________"}, {"role": "assistant", "content": "149.6 Million km"}]}
+{"messages": [{"role": "user", "content": "Who formulated the theory of relativity?"}, {"role": "assistant", "content": "Albert Einstein"}]}
+{"messages": [{"role": "user", "content": "Which mathematician is known as the \u201cPrince of Indian Mathematics\u201d?"}, {"role": "assistant", "content": "Srinivasa Ramanujan"}]}
+{"messages": [{"role": "user", "content": "Sound cannot travel through _________"}, {"role": "assistant", "content": "Vacuum"}]}
+{"messages": [{"role": "user", "content": "What is the full form of ROM?"}, {"role": "assistant", "content": "Read-Only Memory"}]}
+{"messages": [{"role": "user", "content": "Name the smallest ocean in the world?"}, {"role": "assistant", "content": "Arctic Ocean"}]}
+{"messages": [{"role": "user", "content": "Goitre is caused by the deficiency of?"}, {"role": "assistant", "content": "Arctic Ocean"}]}
+{"messages": [{"role": "user", "content": "The term \u201cLBW\u201d is related to which sport?"}, {"role": "assistant", "content": "Cricket"}]}
+{"messages": [{"role": "user", "content": "In which year did Christopher Columbus discover America?"}, {"role": "assistant", "content": "1492"}]}
+{"messages": [{"role": "user", "content": "Which is the tallest mountain in the world?"}, {"role": "assistant", "content": "Mount Everest"}]}
+{"messages": [{"role": "user", "content": "The famous novel, Alice in Wonderland, was written by?"}, {"role": "assistant", "content": "Lewis Carroll"}]}
+{"messages": [{"role": "user", "content": "Name the ocean in which the famous ship, Titanic, had sunk?"}, {"role": "assistant", "content": "North Atlantic Ocean"}]}
+{"messages": [{"role": "user", "content": "What is the scientific name of tomato?"}, {"role": "assistant", "content": "Solanum lycopersicum"}]}
+{"messages": [{"role": "user", "content": "1024 kilobytes is equal to _."}, {"role": "assistant", "content": "1 Megabyte(MB)"}]}
+{"messages": [{"role": "user", "content": "Who is Paulo Coelho?"}, {"role": "assistant", "content": "Brazilian Novelist"}]}
+{"messages": [{"role": "user", "content": "A figure with 6 sides is known as ________."}, {"role": "assistant", "content": "Hexagon"}]}
+{"messages": [{"role": "user", "content": "What do UPS stand for?"}, {"role": "assistant", "content": "Uninterrupted Power Supply"}]}
+{"messages": [{"role": "user", "content": "At which temperature does water boil?"}, {"role": "assistant", "content": "100\u25e6C"}]}
+{"messages": [{"role": "user", "content": "Name the acid in lemon."}, {"role": "assistant", "content": "Citric acid"}]}
+{"messages": [{"role": "user", "content": "Which is the first animal to land on the moon?"}, {"role": "assistant", "content": "Laika, The dog"}]}
+{"messages": [{"role": "user", "content": "Name the two Oceans in which Australia is sandwiched between?"}, {"role": "assistant", "content": "The Indian Ocean and The Pacific Ocean"}]}
+{"messages": [{"role": "user", "content": "What do AM and PM stand for?"}, {"role": "assistant", "content": "AM stands for Ante Meridiem and PM stands for Post Meridiem"}]}
+{"messages": [{"role": "user", "content": "Statue of Liberty is in _."}, {"role": "assistant", "content": "New York City"}]}
+{"messages": [{"role": "user", "content": "Name the five layers of Earth\u2019s atmosphere."}, {"role": "assistant", "content": "Exosphere, Thermosphere, Mesosphere, Stratosphere and Troposphere"}]}
+{"messages": [{"role": "user", "content": "Name the border of India and Pakistan."}, {"role": "assistant", "content": "Radcliffe Line\u00a0"}]}
+{"messages": [{"role": "user", "content": "What is Ablutophobia?"}, {"role": "assistant", "content": "It is the Fear of Bathing"}]}
+{"messages": [{"role": "user", "content": "What is the full form of\u00a0 HTTP?"}, {"role": "assistant", "content": "Hypertext Transfer Protocol"}]}
+{"messages": [{"role": "user", "content": "Identify the Tennis Player."}, {"role": "assistant", "content": "Roger Federer"}]}
+{"messages": [{"role": "user", "content": "Which is the coldest planet in our solar system?"}, {"role": "assistant", "content": "Neptune"}]}
+{"messages": [{"role": "user", "content": "Which gas is known as \u201cLaughing gas\u201d?"}, {"role": "assistant", "content": "Nitrous Oxide"}]}
+{"messages": [{"role": "user", "content": "Name the largest temple in the World."}, {"role": "assistant", "content": "Angkor Wat"}]}
+{"messages": [{"role": "user", "content": "Which of the following is not a component of chlorophyll?  a) Magnesium b)  Carbon c) Calcium d) None of These"}, {"role": "assistant", "content": "C. Calcium"}]}
+{"messages": [{"role": "user", "content": "Which is the largest freshwater lake in the world?"}, {"role": "assistant", "content": "Lake Baikal"}]}
+{"messages": [{"role": "user", "content": "What is the full form of MBBS?"}, {"role": "assistant", "content": "Bachelor of Medicine and Bachelor of Surgery"}]}
+{"messages": [{"role": "user", "content": "Who is the founder of Buddhism?"}, {"role": "assistant", "content": "Siddhartha Gautama"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Italy?"}, {"role": "assistant", "content": "Rome"}]}
+{"messages": [{"role": "user", "content": "When is UN day celebrated?"}, {"role": "assistant", "content": "October 24"}]}
+{"messages": [{"role": "user", "content": "Who is the fastest man in the world?"}, {"role": "assistant", "content": "Usain Bolt"}]}
+{"messages": [{"role": "user", "content": "In which year was the Battle of Plassey fought?"}, {"role": "assistant", "content": "1757"}]}
+{"messages": [{"role": "user", "content": "At which age Gautham Buddha got Nirvana?"}, {"role": "assistant", "content": "35"}]}
+{"messages": [{"role": "user", "content": "Who is known as the father of history?"}, {"role": "assistant", "content": "Herodotus"}]}
+{"messages": [{"role": "user", "content": "What was the ancient name of Patna?"}, {"role": "assistant", "content": "Pataliputra"}]}
+{"messages": [{"role": "user", "content": "What is the square root of 144?"}, {"role": "assistant", "content": "12"}]}
+{"messages": [{"role": "user", "content": "Who gave the slogan \u201cDo or Die\u201d?"}, {"role": "assistant", "content": "Mahatma Gandhi"}]}
+{"messages": [{"role": "user", "content": "Why are the leaves green in color?"}, {"role": "assistant", "content": "Due to the presence of Chlorophyll"}]}
+{"messages": [{"role": "user", "content": "Name the acid that is secreted in the stomach?"}, {"role": "assistant", "content": "Hydrochloric acid"}]}
+{"messages": [{"role": "user", "content": "Which is the highest civilian award of the Republic of India?"}, {"role": "assistant", "content": "The Bharat Ratna Award"}]}
+{"messages": [{"role": "user", "content": "WWW stands for?"}, {"role": "assistant", "content": "World Wide Web"}]}
+{"messages": [{"role": "user", "content": "World Environment Day is celebrated on _."}, {"role": "assistant", "content": "June 5"}]}
+{"messages": [{"role": "user", "content": "Plants that develop in dry conditions are"}, {"role": "assistant", "content": "Xerophytes"}]}
+{"messages": [{"role": "user", "content": "Where is \u2018Great Bear Lake\u2019 found in the world?"}, {"role": "assistant", "content": "Canada\u00a0"}]}
+{"messages": [{"role": "user", "content": "What is the full form of Wifi?"}, {"role": "assistant", "content": "Wireless Fidelity"}]}
+{"messages": [{"role": "user", "content": "Who is the writer of \u2018Panchathantra\u2019?"}, {"role": "assistant", "content": "Vishnu Sharma"}]}
+{"messages": [{"role": "user", "content": "Who is the 14th President of India?"}, {"role": "assistant", "content": "Ram Nath Govind"}]}
+{"messages": [{"role": "user", "content": "Which is the biggest bone in the human body?"}, {"role": "assistant", "content": "Femur"}]}
+{"messages": [{"role": "user", "content": "Who was the inventor of the light bulb?"}, {"role": "assistant", "content": "Thomas Alwa Edison"}]}
+{"messages": [{"role": "user", "content": "Opium is obtained from the dry latex from which part of the Papaver somniferum Plant?"}, {"role": "assistant", "content": "Poppy"}]}
+{"messages": [{"role": "user", "content": "Which Vitamin helps to heal the wound"}, {"role": "assistant", "content": "Vitamin C"}]}
+{"messages": [{"role": "user", "content": "Which is the mineral found in teeth and limestones?"}, {"role": "assistant", "content": "Calcium"}]}
+{"messages": [{"role": "user", "content": "Who was at the helm of the Philadelphia Phillies in the 2011 season?"}, {"role": "assistant", "content": "Charlie Manuel"}]}
+{"messages": [{"role": "user", "content": "Which is the largest lake in Japan?"}, {"role": "assistant", "content": "Biwa"}]}
+{"messages": [{"role": "user", "content": "What is the weight of a cricket ball?"}, {"role": "assistant", "content": "5.75 ounces"}]}
+{"messages": [{"role": "user", "content": "Which is the only even prime number?"}, {"role": "assistant", "content": "2"}]}
+{"messages": [{"role": "user", "content": "Who invented the number zero?"}, {"role": "assistant", "content": "Aryabhatta"}]}
+{"messages": [{"role": "user", "content": "How many degrees are there in a circle?"}, {"role": "assistant", "content": "360"}]}
+{"messages": [{"role": "user", "content": "What is the shape of dice?"}, {"role": "assistant", "content": "Cube"}]}
+{"messages": [{"role": "user", "content": "How many decimal points are there in a number?"}, {"role": "assistant", "content": "One"}]}
+{"messages": [{"role": "user", "content": "How many seconds are there in an hour?"}, {"role": "assistant", "content": "3600"}]}
+{"messages": [{"role": "user", "content": "A triangle with all side equal is called_?"}, {"role": "assistant", "content": "Equilateral triangle"}]}
+{"messages": [{"role": "user", "content": "Which is the first odd composite number?"}, {"role": "assistant", "content": "33"}]}
+{"messages": [{"role": "user", "content": "What is a polygon with five sides called?"}, {"role": "assistant", "content": "Pentagon"}]}
+{"messages": [{"role": "user", "content": "How many years is a decade?"}, {"role": "assistant", "content": "Ten"}]}
+{"messages": [{"role": "user", "content": "A raindrop is of which geometric shape?"}, {"role": "assistant", "content": "Sphere"}]}
+{"messages": [{"role": "user", "content": "What is the approximate value of pi?"}, {"role": "assistant", "content": "3.14"}]}
+{"messages": [{"role": "user", "content": "90 minutes amount to ___ hours?"}, {"role": "assistant", "content": "1.5"}]}
+{"messages": [{"role": "user", "content": "What is the value of Golden Ratio?"}, {"role": "assistant", "content": "1.618"}]}
+{"messages": [{"role": "user", "content": "What is a triangle with all three sides of different lengths called?"}, {"role": "assistant", "content": "Scalene triangle"}]}
+{"messages": [{"role": "user", "content": "Which polygon has opposite sides and angles equal?"}, {"role": "assistant", "content": "Parallelogram"}]}
+{"messages": [{"role": "user", "content": "Which number is neither prime nor composite?"}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "A polygon with all four sides and angles equal is called___?"}, {"role": "assistant", "content": "Square"}]}
+{"messages": [{"role": "user", "content": "How many seconds are there in a day?"}, {"role": "assistant", "content": "86400"}]}
+{"messages": [{"role": "user", "content": "How many sides does the base of a pyramid have?"}, {"role": "assistant", "content": "4"}]}
+{"messages": [{"role": "user", "content": "Fourth Buddhist council held during the reign of which emperor?"}, {"role": "assistant", "content": "Kanishka"}]}
+{"messages": [{"role": "user", "content": "In which year did Mahatma Gandhi start Dandi March?"}, {"role": "assistant", "content": "1930"}]}
+{"messages": [{"role": "user", "content": "Who is the founder of Chola Dynasty?"}, {"role": "assistant", "content": "Vijayalaya"}]}
+{"messages": [{"role": "user", "content": "Which was the first animal to go to space?"}, {"role": "assistant", "content": "Dog"}]}
+{"messages": [{"role": "user", "content": "Zawar mines are located in which Indian state?"}, {"role": "assistant", "content": "Rajasthan"}]}
+{"messages": [{"role": "user", "content": "Which country is the first in Asia to launch a plastics pact?"}, {"role": "assistant", "content": "India"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Finland?"}, {"role": "assistant", "content": "Helsinki"}]}
+{"messages": [{"role": "user", "content": "Ozone layer is in which layer of the atmosphere?"}, {"role": "assistant", "content": "Stratosphere"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Morocco?"}, {"role": "assistant", "content": "Mozambique"}]}
+{"messages": [{"role": "user", "content": "Which is the longest river in the world?"}, {"role": "assistant", "content": "Nile"}]}
+{"messages": [{"role": "user", "content": "Mount Aconcagua is located in which mountain ranges?"}, {"role": "assistant", "content": "Andes"}]}
+{"messages": [{"role": "user", "content": "Which Indian state was the first to introduce the \u201cOak Tussar Industry\u201d?"}, {"role": "assistant", "content": "Manipur"}]}
+{"messages": [{"role": "user", "content": "National Research Centre on Yak (NRCY) is located in which Indian state?"}, {"role": "assistant", "content": "Arunachal Pradesh\n"}]}
+{"messages": [{"role": "user", "content": "Which is the largest river on Earth?"}, {"role": "assistant", "content": "Amazon river\n"}]}
+{"messages": [{"role": "user", "content": "Which is the most spoken language in the world?"}, {"role": "assistant", "content": "Mandarin Chinese"}]}
+{"messages": [{"role": "user", "content": "Which is the highest mountain peak of India?"}, {"role": "assistant", "content": "Kanchenjunga"}]}
+{"messages": [{"role": "user", "content": "Who was the first president of the USA?"}, {"role": "assistant", "content": "George Washington"}]}
+{"messages": [{"role": "user", "content": "How many fundamental rights are mentioned in the Indian Constitution?"}, {"role": "assistant", "content": "6"}]}
+{"messages": [{"role": "user", "content": "Who is popularly known as the Napolean of India?"}, {"role": "assistant", "content": "Samudragupta"}]}
+{"messages": [{"role": "user", "content": "Who was known as Punjab Kesari?"}, {"role": "assistant", "content": "Lala Lajpat Rai"}]}
+{"messages": [{"role": "user", "content": "When is World Health Day observed?"}, {"role": "assistant", "content": "April 7"}]}
+{"messages": [{"role": "user", "content": "What was the theme of World Health Day 2022?"}, {"role": "assistant", "content": "Our Planet, Our Health"}]}
+{"messages": [{"role": "user", "content": "October"}, {"role": "assistant", "content": "Our Planet, Our Health"}]}
+{"messages": [{"role": "user", "content": "Which planet is known as the Morning/Evening star?"}, {"role": "assistant", "content": "Venus"}]}
+{"messages": [{"role": "user", "content": "Which continent invests the most in solar power?"}, {"role": "assistant", "content": "Asia"}]}
+{"messages": [{"role": "user", "content": "Who won the 2022 International Women of Courage Award?"}, {"role": "assistant", "content": "Rizwana Hassan"}]}
+{"messages": [{"role": "user", "content": "What is the theme for World Wildlife Day 2022?"}, {"role": "assistant", "content": "Recovering key species for ecosystem restoration"}]}
+{"messages": [{"role": "user", "content": "What is the name of ISRO\u2019s new humanoid robot that will go to space next?"}, {"role": "assistant", "content": "Vyommitra"}]}
+{"messages": [{"role": "user", "content": "Which country is known as the Pearl of the Orient Seas?"}, {"role": "assistant", "content": "Philippines\n"}]}
+{"messages": [{"role": "user", "content": "Who is known as the father of Indian nuclear program?"}, {"role": "assistant", "content": "Homi J Bhabha"}]}
+{"messages": [{"role": "user", "content": "Who invented radio?"}, {"role": "assistant", "content": "Guglielmo Marconi"}]}
+{"messages": [{"role": "user", "content": "Which is the longest river in Europe?"}, {"role": "assistant", "content": "Volga River"}]}
+{"messages": [{"role": "user", "content": "Which was the first metal used by Harappan civilization?"}, {"role": "assistant", "content": "Copper"}]}
+{"messages": [{"role": "user", "content": "Thomas Cup is related to which sport?"}, {"role": "assistant", "content": "Badminton\n"}]}
+{"messages": [{"role": "user", "content": "How many players are there in an ice hockey team?"}, {"role": "assistant", "content": "Six"}]}
+{"messages": [{"role": "user", "content": "Ryder Cup is related to which sport?"}, {"role": "assistant", "content": "Golf"}]}
+{"messages": [{"role": "user", "content": "Which country invented paper?"}, {"role": "assistant", "content": "China"}]}
+{"messages": [{"role": "user", "content": "Who has been reappointed as the President of the World Health Organization (WHO)?"}, {"role": "assistant", "content": "Tedros Ghebreyesus"}]}
+{"messages": [{"role": "user", "content": "Which day is observed as International Literacy Day?"}, {"role": "assistant", "content": "September 8"}]}
+{"messages": [{"role": "user", "content": "Who was known as the Missile Man of India?"}, {"role": "assistant", "content": "Dr. APJ Abdul Kalam"}]}
+{"messages": [{"role": "user", "content": "Name the marine animal known as \u201csea cow\u201d?"}, {"role": "assistant", "content": "Manatees"}]}
+{"messages": [{"role": "user", "content": "Which is the protein found in nails?"}, {"role": "assistant", "content": "Keratin"}]}
+{"messages": [{"role": "user", "content": "Which instrument is used to measure blood pressure?"}, {"role": "assistant", "content": "Sphygmomanometer"}]}
+{"messages": [{"role": "user", "content": "Which mineral is found in teeth?"}, {"role": "assistant", "content": "Calcium\n"}]}
+{"messages": [{"role": "user", "content": "Which acid is secreted in the stomach?"}, {"role": "assistant", "content": "Hydrochloric acid"}]}
+{"messages": [{"role": "user", "content": "Who is known as the \u201cfather of vaccination\u201d?"}, {"role": "assistant", "content": "Edward Jenner"}]}
+{"messages": [{"role": "user", "content": "Which is the slowest moving animal on Earth?"}, {"role": "assistant", "content": "The three-toed sloth"}]}
+{"messages": [{"role": "user", "content": "Which only metal in liquid form at room temperature?"}, {"role": "assistant", "content": "Mercury"}]}
+{"messages": [{"role": "user", "content": "Which is known as the Father of modern medicine?"}, {"role": "assistant", "content": "Hippocrates"}]}
+{"messages": [{"role": "user", "content": "Which scientist developed the Theory of Relativity?"}, {"role": "assistant", "content": "Albert Einstein"}]}
+{"messages": [{"role": "user", "content": "The air we breathe is majorly composed of which gas?"}, {"role": "assistant", "content": "Nitrogen"}]}
+{"messages": [{"role": "user", "content": "What is the chemical name of Vitamin C?"}, {"role": "assistant", "content": "Ascorbic acid"}]}
+{"messages": [{"role": "user", "content": "Plaster of Paris is made of ____?"}, {"role": "assistant", "content": "Gypsum"}]}
+{"messages": [{"role": "user", "content": "Hematite is the ore of which metal?"}, {"role": "assistant", "content": "Iron"}]}
+{"messages": [{"role": "user", "content": "Who discovered Penicillin?"}, {"role": "assistant", "content": "Alexander Fleming"}]}
+{"messages": [{"role": "user", "content": "Which planet has the biggest known volcano in our solar system?"}, {"role": "assistant", "content": "Mars"}]}
+{"messages": [{"role": "user", "content": "Who invented telephone?"}, {"role": "assistant", "content": "Alexander Graham Bell"}]}
+{"messages": [{"role": "user", "content": "World Homoeopathy Day is observed on ______"}, {"role": "assistant", "content": "April 10"}]}
+{"messages": [{"role": "user", "content": "What is the square of 42?"}, {"role": "assistant", "content": "1764"}]}
+{"messages": [{"role": "user", "content": "Baku is the capital of which country?"}, {"role": "assistant", "content": "Azerbaijan"}]}
+{"messages": [{"role": "user", "content": "Name the currency used in Japan?"}, {"role": "assistant", "content": "Yen"}]}
+{"messages": [{"role": "user", "content": "Which lake is situated in the border of countries, Peru and Bolivia?"}, {"role": "assistant", "content": "Lake Titicaca"}]}
+{"messages": [{"role": "user", "content": "The distance travelled by light in one year is called _______"}, {"role": "assistant", "content": "Light Year"}]}
+{"messages": [{"role": "user", "content": "When is World Hearing Day?"}, {"role": "assistant", "content": "March 23"}]}
+{"messages": [{"role": "user", "content": "What is the theme of World Hearing Day 2022?"}, {"role": "assistant", "content": "To hear for life, listen with care!"}]}
+{"messages": [{"role": "user", "content": "________________ is known as \u201cantisterility vitamin\u201d?"}, {"role": "assistant", "content": "Vitamin E"}]}
+{"messages": [{"role": "user", "content": "Name a non-metal that conducts electricity?"}, {"role": "assistant", "content": "Graphite"}]}
+{"messages": [{"role": "user", "content": "Birth anniversary of Sardar Vallabhbhai Patel is observed as?"}, {"role": "assistant", "content": "National Unity Day (Rashtriya Ekta Divas)"}]}
+{"messages": [{"role": "user", "content": "Who discovered X-Rays?"}, {"role": "assistant", "content": "Wilhelm Conrad Roentgen"}]}
+{"messages": [{"role": "user", "content": "Name the main gases present in the Sun?"}, {"role": "assistant", "content": "Hydrogen and Helium"}]}
+{"messages": [{"role": "user", "content": "Name the capital of Kingdom of Bahrain?"}, {"role": "assistant", "content": "Manama"}]}
+{"messages": [{"role": "user", "content": "What is the theme of World Meteorological Day 2022?"}, {"role": "assistant", "content": "Early Warning and Early Action"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Norway?"}, {"role": "assistant", "content": "Oslo"}]}
+{"messages": [{"role": "user", "content": "Name the compound necessary for photosynthesis in leaves?"}, {"role": "assistant", "content": "Chlorophyll"}]}
+{"messages": [{"role": "user", "content": "What are the tiny pores present in plant leaves called?"}, {"role": "assistant", "content": "Stomata"}]}
+{"messages": [{"role": "user", "content": "Who invented electricity?"}, {"role": "assistant", "content": "Benjamin Franklin"}]}
+{"messages": [{"role": "user", "content": "Name the continent known as \u201cDark Continent\u201d?"}, {"role": "assistant", "content": "Africa"}]}
+{"messages": [{"role": "user", "content": "______ is the hardest substance available on Earth."}, {"role": "assistant", "content": "Diamond"}]}
+{"messages": [{"role": "user", "content": "Name the instrument used to measure atmospheric pressure"}, {"role": "assistant", "content": "Barometer"}]}
+{"messages": [{"role": "user", "content": "Who was the first woman to go to space?"}, {"role": "assistant", "content": "Valentina Tereshkova"}]}
+{"messages": [{"role": "user", "content": "Which bird is known for its intelligence?"}, {"role": "assistant", "content": "Owl"}]}
+{"messages": [{"role": "user", "content": "Which is the gas absorbed by plants?"}, {"role": "assistant", "content": "Carbon Dioxide"}]}
+{"messages": [{"role": "user", "content": "What is the capital of Denmark?"}, {"role": "assistant", "content": "Copenhagen"}]}
+{"messages": [{"role": "user", "content": "Olympic Games of which year were cancelled due to World War I?"}, {"role": "assistant", "content": "1916"}]}
+{"messages": [{"role": "user", "content": "How many players are there in a Kho Kho team?"}, {"role": "assistant", "content": "9"}]}
+{"messages": [{"role": "user", "content": "Who was the first President of the United States?"}, {"role": "assistant", "content": "George Washington"}]}
+{"messages": [{"role": "user", "content": "Name the continent with the highest population density?"}, {"role": "assistant", "content": "Asia"}]}
+{"messages": [{"role": "user", "content": "Beriberi disease is caused by the deficiency of _________"}, {"role": "assistant", "content": "Vitamin B"}]}
+{"messages": [{"role": "user", "content": "Scientific study of birds is called _______"}, {"role": "assistant", "content": "Ornithology"}]}
+{"messages": [{"role": "user", "content": "Name the organ responsible for blood purification in human body"}, {"role": "assistant", "content": "Kidney"}]}
+{"messages": [{"role": "user", "content": "What is the name of the process where excess water in plants gets released?"}, {"role": "assistant", "content": "Transpiration"}]}
+{"messages": [{"role": "user", "content": "What is the main source of energy produced through photosynthesis in plants?"}, {"role": "assistant", "content": "Glucose"}]}
+{"messages": [{"role": "user", "content": "The measure of moisture in the air is known as _________"}, {"role": "assistant", "content": "Humidity"}]}
+{"messages": [{"role": "user", "content": "A decagon has _______ sides."}, {"role": "assistant", "content": "10"}]}
+{"messages": [{"role": "user", "content": "3 raised to power 0 is ________."}, {"role": "assistant", "content": "1"}]}
+{"messages": [{"role": "user", "content": "Which is the smallest three-digit number?"}, {"role": "assistant", "content": "1000"}]}
+{"messages": [{"role": "user", "content": "Which is the largest three-digit number?"}, {"role": "assistant", "content": "999"}]}
+{"messages": [{"role": "user", "content": "What is the cube root of 27?"}, {"role": "assistant", "content": "3"}]}
+{"messages": [{"role": "user", "content": "What is another name for Northern Lights?"}, {"role": "assistant", "content": "Aurora Boralis"}]}
+{"messages": [{"role": "user", "content": "There are a total of _____ time zones in the world."}, {"role": "assistant", "content": "24"}]}
+{"messages": [{"role": "user", "content": "What is the full form of GPS?"}, {"role": "assistant", "content": "Global Positioning System"}]}
+{"messages": [{"role": "user", "content": "Which famous explorer discovered Cuba?"}, {"role": "assistant", "content": "Christopher Columbus"}]}
+{"messages": [{"role": "user", "content": "Which is the hardest substance on the human body?"}, {"role": "assistant", "content": "Tooth enamel"}]}
+{"messages": [{"role": "user", "content": "Where is the headquarters of UNESCO located?"}, {"role": "assistant", "content": "Paris, France"}]}
+{"messages": [{"role": "user", "content": "Which planet is known as Earth\u2019s Twin?"}, {"role": "assistant", "content": "Venus"}]}
+{"messages": [{"role": "user", "content": "Which is the loudest animal on Earth?"}, {"role": "assistant", "content": "Sperm whale"}]}
+{"messages": [{"role": "user", "content": "Which blood group is known as \u201cuniversal donor\u201d?"}, {"role": "assistant", "content": "O+"}]}
+{"messages": [{"role": "user", "content": "_____ is a flying mammal."}, {"role": "assistant", "content": "Bat"}]}
+{"messages": [{"role": "user", "content": "Which animal has fingerprints similar to that of humans?"}, {"role": "assistant", "content": "Koala"}]}
+{"messages": [{"role": "user", "content": "What is the colour of polar bear\u2019s skin?"}, {"role": "assistant", "content": "Black"}]}
+{"messages": [{"role": "user", "content": "Which protein is a fingernail made of?"}, {"role": "assistant", "content": "Keratin"}]}
+{"messages": [{"role": "user", "content": "Which bird can fly backward?"}, {"role": "assistant", "content": "Humming bird"}]}
+{"messages": [{"role": "user", "content": "Who was the first woman to win a Nobel Prize?"}, {"role": "assistant", "content": "Marie Curie (in the year 1903)"}]}
+{"messages": [{"role": "user", "content": "_____ is the warmest sea on Earth."}, {"role": "assistant", "content": "Read Sea"}]}
+{"messages": [{"role": "user", "content": "Which is the fastest snake in the world?"}, {"role": "assistant", "content": "Black Mamba"}]}
+{"messages": [{"role": "user", "content": "Which is the largest organ in the human body?"}, {"role": "assistant", "content": "Skin"}]}
+{"messages": [{"role": "user", "content": "Which is the largest lake in Japan?"}, {"role": "assistant", "content": "Biwa"}]}
+{"messages": [{"role": "user", "content": "Name the vitamin that helps to heal wounds?"}, {"role": "assistant", "content": "Vitamin C"}]}
+{"messages": [{"role": "user", "content": "Equilateral polygons have all ______ equal."}, {"role": "assistant", "content": "Sides"}]}
+{"messages": [{"role": "user", "content": "Which country does famous footballer Lionel Messi belong to?"}, {"role": "assistant", "content": "Argentina"}]}
+{"messages": [{"role": "user", "content": "The atomic number of Iron (Fe) is _____."}, {"role": "assistant", "content": "26"}]}
+{"messages": [{"role": "user", "content": "What is the capital of United Arab Emirates (UAE)?"}, {"role": "assistant", "content": "Abu Dhabi"}]}
+{"messages": [{"role": "user", "content": "Golfer Vijay Singh belongs to which country?"}, {"role": "assistant", "content": "Fiji"}]}
+{"messages": [{"role": "user", "content": "Which blood cells do not have a nucleus?"}, {"role": "assistant", "content": "Blood platelets"}]}
+{"messages": [{"role": "user", "content": "Who authored the renowned novel \u201cThe Godfather\u201d?"}, {"role": "assistant", "content": "Mario Puzo"}]}
+{"messages": [{"role": "user", "content": "RAM is located in which part of the computer?"}, {"role": "assistant", "content": "Mother board"}]}
+{"messages": [{"role": "user", "content": "Who was nicknamed the \u201cLittle Corporal\u201d?"}, {"role": "assistant", "content": "Napolean Bonaparte"}]}
+{"messages": [{"role": "user", "content": "The ceiling of Sistine Chapel has frescos painted by which famous painter?"}, {"role": "assistant", "content": "Michelangelo"}]}
+{"messages": [{"role": "user", "content": "What was the court language used by Mughals?"}, {"role": "assistant", "content": "Persian"}]}
+{"messages": [{"role": "user", "content": "Orange Prize is related to the field of ____________."}, {"role": "assistant", "content": "Literature"}]}
+{"messages": [{"role": "user", "content": "When did World War II start?"}, {"role": "assistant", "content": "1939"}]}
+{"messages": [{"role": "user", "content": "Vienna is the capital of which country?"}, {"role": "assistant", "content": "Austria"}]}
+{"messages": [{"role": "user", "content": "Who discovered Protons?"}, {"role": "assistant", "content": "Rutherford"}]}
+{"messages": [{"role": "user", "content": "What does \u2018Xylem\u2019 in plants do?"}, {"role": "assistant", "content": "Transport water"}]}
+{"messages": [{"role": "user", "content": "Which is the \u2018class\u2019 of Octopus?"}, {"role": "assistant", "content": "Cephalopod"}]}
+{"messages": [{"role": "user", "content": "What does Big Bang Theory explain?"}, {"role": "assistant", "content": "Origin of Universe"}]}
+{"messages": [{"role": "user", "content": "Who is the author of \u2018Origin of Species\u2019?"}, {"role": "assistant", "content": "Charles Darwin"}]}
+{"messages": [{"role": "user", "content": "What kind of mosquito carries malaria?"}, {"role": "assistant", "content": "Anopheles Mosquitoes"}]}
+{"messages": [{"role": "user", "content": "Name the smallest Ocean."}, {"role": "assistant", "content": "Arctic Ocean"}]}
+{"messages": [{"role": "user", "content": "Which day is celebrated as World Consumer Rights Day?"}, {"role": "assistant", "content": "March 15"}]}
+{"messages": [{"role": "user", "content": "What is Light year?"}, {"role": "assistant", "content": "It is the unit of distance"}]}
+{"messages": [{"role": "user", "content": "Which is the sacred book of Buddhists?"}, {"role": "assistant", "content": "Tripitakas"}]}
+{"messages": [{"role": "user", "content": "Cataract is the disease of _."}, {"role": "assistant", "content": "Eye"}]}
+{"messages": [{"role": "user", "content": "What is the SI unit of Force?"}, {"role": "assistant", "content": "Newton"}]}
+{"messages": [{"role": "user", "content": "Who is the author of \u2018Wings of Fire\u2019?"}, {"role": "assistant", "content": "A.P.J. Abdul Kalam"}]}
+{"messages": [{"role": "user", "content": "Who is the father of Economics?"}, {"role": "assistant", "content": "Adam Smith"}]}
+{"messages": [{"role": "user", "content": "What is the common name of Sodium Carbonate?"}, {"role": "assistant", "content": "Washing Soda"}]}
+{"messages": [{"role": "user", "content": "What is Phycology?"}, {"role": "assistant", "content": "Study of Algae"}]}
+{"messages": [{"role": "user", "content": "Which is the first Asian country to orbit Mars?"}, {"role": "assistant", "content": "India"}]}
+{"messages": [{"role": "user", "content": "Which country is the largest producer of Coffee?"}, {"role": "assistant", "content": "Brazil"}]}
+{"messages": [{"role": "user", "content": "The terms\u2019 Bull and Bear\u2019 is associated with __________."}, {"role": "assistant", "content": "Stock Market"}]}
+{"messages": [{"role": "user", "content": "Where are the HeadQuarters of UNESCO?"}, {"role": "assistant", "content": "Paris, France"}]}
+{"messages": [{"role": "user", "content": "Which are the colors of the rings of the Olympic flag?"}, {"role": "assistant", "content": "Black, Red, Blue, Green, and Yellow"}]}
+{"messages": [{"role": "user", "content": "Who invented \u2018Lift\u2019?"}, {"role": "assistant", "content": "Elisha Graves Otis"}]}
+{"messages": [{"role": "user", "content": "Which river crosses the equator twice?"}, {"role": "assistant", "content": "Congo River"}]}
+{"messages": [{"role": "user", "content": "Which is the device used to locate submerged objects under sea?"}, {"role": "assistant", "content": "SONAR"}]}
