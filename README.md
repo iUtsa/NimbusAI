@@ -1,5 +1,4 @@
-Here’s your updated **README.md** file with the **fine-tuned model**, and mentioning that **GPT API is not used** but **Wiki API and NASA API** are integrated.
-
+**Project file is 20GB+, so uploaded entire project in Google Drive as ZIP file as github cannot take this large file** 
 ---
 
 ### 📌 **README.md**
