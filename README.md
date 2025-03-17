@@ -6,7 +6,7 @@
 ```md
 # 🌩️ Nimbus AI Assistant
 
-**Nimbus AI** is a fine-tuned AI assistant designed for smart, real-time interactions. It does **not** rely on OpenAI’s GPT API but instead uses a **custom fine-tuned model** trained on various datasets. It integrates **Wiki API** and **NASA API** for fetching real-time knowledge.
+**Nimbus AI** is a fine-tuned **GPT-2 model** AI assistant designed for smart, real-time interactions. It does **not** rely on OpenAI’s GPT API but instead uses a **custom fine-tuned model** trained on various datasets. It integrates **Wiki API** and **NASA API** for fetching real-time knowledge.
 
 
 ---
