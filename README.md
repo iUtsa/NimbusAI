@@ -9,7 +9,6 @@ Here’s your updated **README.md** file with the **fine-tuned model**, and ment
 
 **Nimbus AI** is a fine-tuned AI assistant designed for smart, real-time interactions. It does **not** rely on OpenAI’s GPT API but instead uses a **custom fine-tuned model** trained on various datasets. It integrates **Wiki API** and **NASA API** for fetching real-time knowledge.
 
-![Nimbus AI](https://your-image-link-here) <!-- Replace with actual image -->
 
 ---
 
