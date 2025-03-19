@@ -365,9 +365,18 @@ If NimbusAI is based on any published research paper or if it's inspired by exis
 
 📚 Related Research Papers:
 
-Attention is All You Need (Vaswani et al., 2017) – Transformer Architecture
-Scaling Laws for Neural Language Models (Kaplan et al., 2020) – Model scaling effects
-Retrieval-Augmented Generation (Lewis et al., 2020) – Fact-checking and external knowledge integration
+---
+
+🔬 Research & Scientific Contributions
+If NimbusAI is based on any published research paper or if it's inspired by existing works, mention them here.
+
+📚 Related Research Papers:
+
+[Attention is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762) -Transformer Architecture
+[Scaling Laws for Neural Language Models (Kaplan et al., 2020](https://arxiv.org/abs/2001.08361) – Model scaling effects
+[Retrieval-Augmented Generation (Lewis et al., 2020](https://arxiv.org/abs/2005.11401) – Fact-checking and external knowledge integration
+📌 Future Work:
+NimbusAI aims to integrate self-learning capabilities by dynamically improving responses based on user feedback.
 📌 Future Work:
 NimbusAI aims to integrate self-learning capabilities by dynamically improving responses based on user feedback.
 ---
