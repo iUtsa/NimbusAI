@@ -257,7 +257,7 @@ NimbusAI is a powerful **AI assistant** designed for **mathematical reasoning an
 
 ### 🔗 **Follow for Updates**
 🌐 **Website**: [Coming Soon]  
-📌 **GitHub Repo**: [NimbusAI GitHub]([https://github.com/](https://github.com/iUtsa/NimbusAI-v1.0-Dark-Matter))  
+📌 **GitHub Repo**: [NimbusAI GitHub](https://github.com/iUtsa/NimbusAI-v1.0-Dark-Matter)  
 📢 **Twitter**: @iADUtsa  
 
 🚀 **Let’s take AI beyond the horizon!** 🌩️  
