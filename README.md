@@ -32,6 +32,28 @@ Here's an enhanced **README.md** with a well-structured **design, formatted tabl
 
 ---
 
+## 🛠️ **Technologies Used**  
+
+NimbusAI is built using a **modern tech stack** to ensure efficiency, scalability, and performance.  
+
+### 🚀 **Core Technologies**  
+
+| **Technology** | **Usage** | **Logo** |
+|--------------|-----------|---------|
+| **Python** 🐍 | Backend Development, AI Model Training | ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg) |
+| **Flask** 🌐 | Web Framework for API | ![Flask](https://img.shields.io/badge/Flask-Web%20API-orange) |
+| **PyTorch** 🔥 | Machine Learning & LLM Fine-Tuning | ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red) |
+| **Hugging Face Transformers** 🤗 | Pre-trained LLM & NLP Processing | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-LLM%20Models-yellow) |
+| **SymPy** ➗ | Symbolic Math Computations | ![SymPy](https://img.shields.io/badge/SymPy-Math%20Symbolic-green) |
+| **JavaScript** 🛠️ | Frontend Interactivity | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) |
+| **HTML5 & CSS3** 🎨 | Frontend UI Design | ![HTML5](https://img.shields.io/badge/HTML5-CSS3-red) |
+| **JSON & CSV** 📂 | Data Storage & Conversion | ![Data](https://img.shields.io/badge/JSON-CSV%20Data-blue) |
+| **Docker** 🐳 | Containerization & Deployment | ![Docker](https://img.shields.io/badge/Docker-Containerization-blue) |
+
+These technologies enable **NimbusAI** to provide **fast, accurate, and reliable** AI-powered assistance. 🚀
+
+---
+
 ## 📁 **Project Structure**  
 
 ```bash
