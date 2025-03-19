@@ -1,11 +1,12 @@
-**Project file is 20GB+, so uploaded entire project in Google Drive as ZIP file as github cannot take this large file** 
+**Project file is 20GB+, so uploaded entire project in 
+Google Drive as ZIP file as github cannot take this large file** 
 ---
 
-Here's an enhanced **README.md** with a well-structured **design, formatted tables**, and a **benchmark comparison** for accuracy. The improved version ensures **readability, clarity, and professional presentation**.
+
 
 ---
 
-# 🌩️ **NimbusAI**  
+# 🌩️ **NimbusAI v1.0: Dark Matter**  
 🚀 **An Advanced LLM Chatbot for Math, Facts, and Conversational AI**  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)  
@@ -93,8 +94,8 @@ NimbusAI’s performance has been benchmarked against **GPT-3.5**, **Llama-2**, 
 |---------------------|-------------|-------------|-------------|-----------|
 | **Arithmetic (2+2, 5*7, etc.)** | ✅ 99% | ✅ 100% | ✅ 99% | ✅ 98% |
 | **Algebra (Solve 3x+5=0)** | ✅ 86% | ✅ 98% | ✅ 95% | ✅ 89% |
-| **Calculus (diff/integrate)** | ✅ 91% | ✅ 95% | ✅ 89% | ❌ 60% |
-| **Fact-Based Questions** | ✅ 97% | ✅ 99% | ✅ 96% | ✅ 94% |
+| **Calculus (diff/integrate)** | ✅ 71% | ✅ 95% | ✅ 89% | ❌ 60% |
+| **Fact-Based Questions** | ✅ 77% | ✅ 99% | ✅ 96% | ✅ 94% |
 | **Error Correction (Self-Learning)** | ✅ 85% | ❌ No Learning | ❌ No Learning | ❌ No Learning |
 | **Response Speed** | ⚡ **0.5s** | 🚀 **0.3s** | 🐢 **1.2s** | 🐢 **1.5s** |
 
@@ -256,11 +257,11 @@ NimbusAI is a powerful **AI assistant** designed for **mathematical reasoning an
 
 ### 🔗 **Follow for Updates**
 🌐 **Website**: [Coming Soon]  
-📌 **GitHub Repo**: [NimbusAI GitHub](https://github.com/)  
-📢 **Twitter**: @NimbusAI  
+📌 **GitHub Repo**: [NimbusAI GitHub]([https://github.com/](https://github.com/iUtsa/NimbusAI-v1.0-Dark-Matter))  
+📢 **Twitter**: @iADUtsa  
 
 🚀 **Let’s take AI beyond the horizon!** 🌩️  
 
 ---
 
-### **✨ Hope this design matches your vision! Let me know if you need changes! 🚀**
+### **✨ Looking for anyone who can do funding for this project to Grow! 🚀**
