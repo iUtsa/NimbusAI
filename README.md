@@ -182,6 +182,104 @@ docker run -p 5000:5000 nimbusai
 3. Run `docker-compose up`  
 
 ---
+
+## **📌 Checkpoints in `fine_tuned_model` Directory**  
+
+The `fine_tuned_model` directory contains multiple **checkpoints**, which are snapshots of the model at different stages during the fine-tuning process. These checkpoints store the weights, configurations, and tokenizer settings, ensuring that the model can be resumed from any stage or used for inference.
+
+---
+
+### **🛠️ What is a Checkpoint?**
+A **checkpoint** is a saved state of a machine learning model that includes:  
+✔ **Model Weights** - The trained parameters learned during fine-tuning.  
+✔ **Optimizer State** - Stores training progress, learning rate adjustments, and gradient updates.  
+✔ **Tokenization Configuration** - Preserves the vocabulary and tokenization settings.  
+✔ **Training Progress** - Ensures the model can resume training from where it left off.  
+
+---
+
+### **📂 Structure of `fine_tuned_model`**
+The directory consists of multiple files that store different aspects of the trained model:
+
+| **File / Folder** | **Description** |
+|------------------|----------------|
+| `checkpoint-*`  | Stores trained weights at different steps in training (e.g., `checkpoint-8`, `checkpoint-16`, `checkpoint-24`). |
+| `config.json`  | Configuration file containing model architecture details (e.g., layer size, activation functions). |
+| `generation_config.json` | Stores generation-specific parameters like temperature, max tokens, and top-p settings. |
+| `merges.txt` | A file used by the tokenizer to merge subword tokens efficiently. |
+| `model.safetensors` | The main model file storing weights in a safe and optimized format. |
+| `pytorch_model.bin` | The PyTorch-compatible model weights (may not be present if `safetensors` format is used). |
+| `special_tokens_map.json` | Defines special tokens like `[CLS]`, `[SEP]`, `[PAD]`, etc., used by the tokenizer. |
+| `tokenizer_config.json` | Stores tokenizer settings such as padding, truncation, and pre-tokenization rules. |
+| `tokenizer.json` | The actual vocabulary and tokenizer model, defining tokenization behavior. |
+| `vocab.json` | A JSON file containing token-to-ID mappings, ensuring consistent tokenization. |
+
+---
+
+### **🧠 Understanding the Checkpoints (`checkpoint-*`)**
+Each checkpoint (e.g., `checkpoint-8`, `checkpoint-16`) represents the model **at a specific step** during training. The number in the checkpoint folder name corresponds to the number of **training steps** completed.  
+
+💡 **Example:**
+- `checkpoint-8` → Model weights saved after 8 training steps.
+- `checkpoint-16` → Model weights saved after 16 training steps.
+- `checkpoint-24` → Model weights saved after 24 training steps.
+
+🔍 **How to Use Checkpoints:**
+- If training crashes or is interrupted, the model can be resumed from the latest checkpoint.
+- Different checkpoints allow experimentation with models at various training stages.
+- The best-performing checkpoint can be selected based on accuracy and loss metrics.
+
+---
+
+### **📌 How Checkpoints Improve Model Performance**
+1. **Incremental Training:** Instead of training from scratch every time, we can continue from a previous checkpoint.  
+2. **Hyperparameter Tuning:** Allows testing different configurations (batch size, learning rate) without restarting.  
+3. **Model Selection:** Helps in choosing the best model version for deployment based on accuracy, loss, and other evaluation metrics.  
+4. **Backup & Recovery:** Ensures that training progress isn’t lost due to crashes or interruptions.  
+
+---
+
+### **🚀 Loading a Checkpoint for Inference**
+To load a specific checkpoint and use it for generating responses, run the following:
+
+```python
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+MODEL_PATH = "backend/fine_tuned_model/checkpoint-16"  # Change to desired checkpoint
+
+tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
+model = AutoModelForCausalLM.from_pretrained(MODEL_PATH)
+
+print("✅ Model loaded successfully from", MODEL_PATH)
+```
+This ensures that the AI loads the **best checkpoint** rather than the initial pre-trained version.
+
+---
+
+### **🎯 Choosing the Best Checkpoint**
+To determine the most accurate checkpoint, evaluate them using **loss and accuracy metrics**.  
+You can compare them by running:
+
+```python
+import torch
+
+model_path_1 = "backend/fine_tuned_model/checkpoint-8"
+model_path_2 = "backend/fine_tuned_model/checkpoint-16"
+
+model_1 = torch.load(f"{model_path_1}/pytorch_model.bin")
+model_2 = torch.load(f"{model_path_2}/pytorch_model.bin")
+
+print("Checkpoint-8 Parameters:", len(model_1))
+print("Checkpoint-16 Parameters:", len(model_2))
+```
+This helps in selecting the most optimized checkpoint for inference.
+
+---
+
+### **📌 Conclusion**
+The `fine_tuned_model` directory is crucial for storing the AI's learned knowledge, and **checkpoints** enable **incremental learning, optimization, and recovery**. By selecting the best-performing checkpoint, NimbusAI ensures **efficient, accurate, and scalable** AI responses. 🚀
+
+---
 ## 📌 **Summary of Input and Output Defaults**  
 
 
