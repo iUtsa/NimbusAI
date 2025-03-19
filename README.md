@@ -363,18 +363,25 @@ Hardware Used: NVIDIA A100 GPU with 80GB VRAM
 🔬 Research & Scientific Contributions
 If NimbusAI is based on any published research paper or if it's inspired by existing works, mention them here.
 
+---
+
 📚 Related Research Papers:
 
----
 
 🔬 Research & Scientific Contributions
 If NimbusAI is based on any published research paper or if it's inspired by existing works, mention them here.
 
-📚 Related Research Papers:
+📚 #Related Research Papers:
 
-[Attention is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762) -Transformer Architecture
-[Scaling Laws for Neural Language Models (Kaplan et al., 2020](https://arxiv.org/abs/2001.08361) – Model scaling effects
-[Retrieval-Augmented Generation (Lewis et al., 2020](https://arxiv.org/abs/2005.11401) – Fact-checking and external knowledge integration
+Attention is All You Need (Vaswani et al., 2017)  
+[https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762) - Transformer Architecture  
+
+Scaling Laws for Neural Language Models (Kaplan et al., 2020)  
+[https://arxiv.org/abs/2001.08361](https://arxiv.org/abs/2001.08361) – Model scaling effects  
+
+Retrieval-Augmented Generation (Lewis et al., 2020)  
+[https://arxiv.org/abs/2005.11401](https://arxiv.org/abs/2005.11401) – Fact-checking and external knowledge integration  
+
 📌 Future Work:
 NimbusAI aims to integrate self-learning capabilities by dynamically improving responses based on user feedback.
 📌 Future Work:
