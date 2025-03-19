@@ -181,6 +181,44 @@ docker run -p 5000:5000 nimbusai
 3. Run `docker-compose up`  
 
 ---
+## 📌 **Summary of Input and Output Defaults**  
+
+
+### **🔹 Input Defaults**  
+
+| **Input Parameter** | **Description** | **Default Value** |
+|---------------------|---------------|----------------|
+| **User Query** | The text input provided by the user for processing | `""` (Empty) |
+| **Math Expression Detection** | Detects if the input is mathematical (Arithmetic, Algebra, Calculus) | `Auto-detected` |
+| **Fact-Based Query Check** | Determines if the query relates to general knowledge or requires external sources | `Auto-detected` |
+| **Wikipedia Fact Retrieval** | Searches Wikipedia for factual queries if not found in the database | `Enabled` |
+| **Local Fact Database Search** | Checks for an existing answer in `fact_data.json` before calling external APIs | `Enabled` |
+| **Math Solver Type** | Detects whether to use SymPy for arithmetic, algebra, or calculus | `Auto-detected` |
+| **Tokenization** | Converts user input into tokens for the LLM | `Auto-handled by Transformer Model` |
+| **AI Model Processing** | Generates responses when no fact or math solution is found | `Enabled` |
+| **Temperature** | Controls randomness in AI-generated responses | `0.1` (Low randomness) |
+| **Top-p (Nucleus Sampling)** | Determines probability distribution for token selection | `0.8` |
+| **Repetition Penalty** | Prevents repetitive text generation | `1.4` |
+| **NASA API Integration** | Fetches Astronomy Picture of the Day (APOD) if space-related queries are detected | `Enabled` |
+| **CSV to JSON Conversion** | Converts `.csv` files into `.json` for structured data storage | `Enabled` |
+| **Fine-Tuned Model Path** | Path to the custom fine-tuned model used for inference | `"backend/fine_tuned_model"` |
+
+### **🔹 Output Defaults**  
+
+| **Output Parameter** | **Description** | **Default Behavior** |
+|---------------------|-----------------|----------------------|
+| **Main Answer** | The first sentence extracted from the response | `Truncated main response` |
+| **Explanation** | Additional details after the main response | `Full context` |
+| **Mathematical Solution** | Provides step-by-step solutions if detected as math-related | `Auto-calculated via SymPy` |
+| **Wikipedia Summary** | Returns a brief summary from Wikipedia for fact-based queries | `Enabled if fact is missing` |
+| **NASA Fact Output** | Displays space-related data if applicable | `Auto-enabled` |
+| **LLM Response** | AI-generated response when no fact or math solution exists | `Enabled` |
+| **Conversation History** | Stores past messages for context retention | `Session-based storage` |
+| **Error Handling** | Returns a structured JSON error response if processing fails | `Enabled` |
+| **Fact Storage** | New facts retrieved from Wikipedia are saved to `fact_data.json` | `Enabled` |
+| **Auto-Correction** | If a user says the response is incorrect, the system apologizes and corrects it | `Enabled` |
+
+---
 
 ## 🛠️ **Future Enhancements**
 📌 **Improved NLP Understanding**  
