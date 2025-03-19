@@ -345,6 +345,32 @@ If you find NimbusAI useful, consider:
 📢 **Sharing with others**  
 
 ---
+📌 Model Training & Dataset Details
+Provide a clear breakdown of how the model was trained and what datasets were used.
+
+📂 Datasets Used for Training:
+✔ Mathematical Expressions & Computation: Custom dataset for arithmetic, algebra, calculus, and logic.
+✔ Scientific Knowledge & Facts: Wikipedia summaries, ArXiv papers, and curated fact-checking datasets.
+✔ Conversational Data: Fine-tuned on real-world Q&A pairs to improve dialogue generation.
+
+📌 Training Parameters:
+
+Optimizer: AdamW with a learning rate of 5e-5
+Batch Size: 16
+Epochs: 10
+Loss Function: Cross-Entropy Loss
+Hardware Used: NVIDIA A100 GPU with 80GB VRAM
+🔬 Research & Scientific Contributions
+If NimbusAI is based on any published research paper or if it's inspired by existing works, mention them here.
+
+📚 Related Research Papers:
+
+Attention is All You Need (Vaswani et al., 2017) – Transformer Architecture
+Scaling Laws for Neural Language Models (Kaplan et al., 2020) – Model scaling effects
+Retrieval-Augmented Generation (Lewis et al., 2020) – Fact-checking and external knowledge integration
+📌 Future Work:
+NimbusAI aims to integrate self-learning capabilities by dynamically improving responses based on user feedback.
+---
 
 ## 🎯 **Final Thoughts**
 NimbusAI is a powerful **AI assistant** designed for **mathematical reasoning and knowledge-based Q&A**. Its **self-learning ability** and **fact database integration** make it a **standout** compared to generic models.  
